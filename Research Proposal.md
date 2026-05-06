@@ -1,4 +1,4 @@
-## title Valuation Risk Integration into Credit Risk Analytics
+### Valuation Risk Integration into Credit Risk Analytics
 ## subtitle	Governance as an Institutional Transmission Mechanism in Data‑Constrained Markets
 
 documentclass	article
