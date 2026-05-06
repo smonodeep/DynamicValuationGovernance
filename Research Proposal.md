@@ -1,7 +1,7 @@
 # Valuation Risk Integration into Credit Risk Analytics
 ## Governance as an Institutional Transmission Mechanism in Data‑Constrained Markets
-
-documentclass	article
+<!-- These might be used later for formatting purpose--->
+<!--documentclass	article
 classoption	onecolumn
 fontsize	11pt
 geometry	margin=1in
@@ -14,7 +14,7 @@ header-includes
 \floatplacement{figure}{H}
 \usepackage{caption}
 \captionsetup{font=small,labelfont=bf}
-\usepackage[none]{hyphenat}
+\usepackage[none]{hyphenat}-->
 ## Abstract
 Automated valuation models (AVMs) are increasingly used in property-backed lending to support collateral valuation and credit risk assessment.
 While prior research has examined AVM accuracy, predictive performance, and model bias, less attention has been paid to
