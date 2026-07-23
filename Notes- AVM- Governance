@@ -1,0 +1,9 @@
+The Veros VeroVALUE AVM is an 
+ensemble-based valuation platform that integrates 
+hedonic pricing models, statistical index models, and machine learning techniques to
+estimate residential property values. It leverages extensive property transaction,
+MLS, and market datasets to generate valuation estimates, while confidence scores and 
+forecast standard deviation metrics quantify valuation uncertainty. 
+From a model risk management perspective, 
+the framework demonstrates robust governance through continuous validation, 
+data quality controls, performance monitoring, and ongoing model oversight.
