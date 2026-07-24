@@ -7,3 +7,147 @@ forecast standard deviation metrics quantify valuation uncertainty.
 From a model risk management perspective, 
 the framework demonstrates robust governance through continuous validation, 
 data quality controls, performance monitoring, and ongoing model oversight.
+
+ICE Notes
+# ICE AVM Methodology and Practice – Research Notes
+
+## Bibliographic Information
+- Organization:
+- Year:
+- Document Type: Industry White Paper / Technical Guide
+- Citation:
+
+---
+
+# 1. AVM Methodology
+
+## Key Points
+- ...
+- ...
+- ...
+
+### Direct Quotations
+> "..."
+
+---
+
+# 2. Data Sources
+
+## Notes
+- Public records
+- MLS
+- Tax assessor
+- Recorder data
+- Geographic information
+
+### Governance Relevance
+- Data completeness
+- Data freshness
+- Data verification
+
+---
+
+# 3. Valuation Metrics
+
+| Metric | Definition | Research Relevance |
+|---------|------------|-------------------|
+| Confidence Score | | |
+| Forecast Standard Deviation | | |
+| Confidence Interval | | |
+| Hit Rate | | |
+| MAE | | |
+| RMSE | | |
+| Bias | | |
+
+---
+
+# 4. Data Quality Controls
+
+Extract every statement regarding:
+
+- Data cleaning
+- Data verification
+- Address standardization
+- Outlier handling
+- Missing data
+- Duplicate removal
+
+---
+
+# 5. Model Governance
+
+Extract statements regarding:
+
+- Validation
+- Model monitoring
+- Recalibration
+- Benchmark testing
+- Independent testing
+- Performance tracking
+
+---
+
+# 6. Decision Governance
+
+Look for statements such as
+
+- confidence thresholds
+- suppressing estimates
+- manual review
+- appraisal escalation
+- override
+- portfolio review
+
+---
+
+# 7. Limitations
+
+Document every limitation acknowledged by ICE.
+
+---
+
+# 8. Interesting Quotes
+
+> ...
+
+> ...
+
+> ...
+
+---
+
+# 9. Literature Review Takeaways
+
+## Supports
+
+- AVM governance
+- Confidence metrics
+- Data quality
+- Validation
+
+## Does NOT Discuss
+
+- Institutional governance
+- Credit decision governance
+- Data-constrained markets
+- Governance transmission mechanism
+
+---
+
+# 10. Ideas for Dynamic Valuation Governance
+
+This section is YOUR thinking.
+
+Example:
+
+ICE measures uncertainty but does not explain how uncertainty should influence lending policy.
+
+Potential governance rule:
+
+Confidence Score → Haircut
+
+FSD → Manual appraisal
+
+Market volatility → Escalation
+
+Portfolio uncertainty → Capital allocation
