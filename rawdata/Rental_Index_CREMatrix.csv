@@ -1,0 +1,1928 @@
+City,MacroMarket,Quarter,Rent
+blr,East Bengaluru,Q1 2014,100.0
+blr,East Bengaluru,Q2 2014,118.1
+blr,East Bengaluru,Q3 2014,94.6
+blr,East Bengaluru,Q4 2014,123.9
+blr,East Bengaluru,Q1 2015,97.3
+blr,East Bengaluru,Q2 2015,117.4
+blr,East Bengaluru,Q3 2015,110.4
+blr,East Bengaluru,Q4 2015,148.4
+blr,East Bengaluru,Q1 2016,126.1
+blr,East Bengaluru,Q2 2016,141.9
+blr,East Bengaluru,Q3 2016,133.8
+blr,East Bengaluru,Q4 2016,146.4
+blr,East Bengaluru,Q1 2017,137.5
+blr,East Bengaluru,Q2 2017,154.2
+blr,East Bengaluru,Q3 2017,153.9
+blr,East Bengaluru,Q4 2017,153.1
+blr,East Bengaluru,Q1 2018,157.1
+blr,East Bengaluru,Q2 2018,152.1
+blr,East Bengaluru,Q3 2018,153.4
+blr,East Bengaluru,Q4 2018,153.5
+blr,East Bengaluru,Q1 2019,149.7
+blr,East Bengaluru,Q2 2019,162.2
+blr,East Bengaluru,Q3 2019,154.0
+blr,East Bengaluru,Q4 2019,155.0
+blr,East Bengaluru,Q1 2020,155.9
+blr,East Bengaluru,Q2 2020,157.3
+blr,East Bengaluru,Q3 2020,153.8
+blr,East Bengaluru,Q4 2020,155.2
+blr,East Bengaluru,Q1 2021,161.7
+blr,East Bengaluru,Q2 2021,164.2
+blr,East Bengaluru,Q3 2021,171.7
+blr,East Bengaluru,Q4 2021,174.1
+blr,East Bengaluru,Q1 2022,174.1
+blr,East Bengaluru,Q2 2022,175.5
+blr,East Bengaluru,Q3 2022,185.4
+blr,East Bengaluru,Q4 2022,190.5
+blr,East Bengaluru,Q1 2023,203.8
+blr,East Bengaluru,Q2 2023,215.2
+blr,East Bengaluru,Q3 2023,202.1
+blr,East Bengaluru,Q4 2023,201.5
+blr,East Bengaluru,Q1 2024,205.1
+blr,East Bengaluru,Q2 2024,213.6
+blr,East Bengaluru,Q3 2024,231.1
+blr,East Bengaluru,Q4 2024,218.7
+blr,East Bengaluru,Q1 2025,206.5
+blr,East Bengaluru,Q2 2025,198.1
+blr,East Bengaluru,Q3 2025,186.3
+blr,CBD - Bengaluru,Q1 2014,100.0
+blr,CBD - Bengaluru,Q2 2014,103.8
+blr,CBD - Bengaluru,Q3 2014,100.4
+blr,CBD - Bengaluru,Q4 2014,106.6
+blr,CBD - Bengaluru,Q1 2015,104.4
+blr,CBD - Bengaluru,Q2 2015,106.4
+blr,CBD - Bengaluru,Q3 2015,111.5
+blr,CBD - Bengaluru,Q4 2015,117.3
+blr,CBD - Bengaluru,Q1 2016,113.5
+blr,CBD - Bengaluru,Q2 2016,115.9
+blr,CBD - Bengaluru,Q3 2016,104.6
+blr,CBD - Bengaluru,Q4 2016,118.5
+blr,CBD - Bengaluru,Q1 2017,115.9
+blr,CBD - Bengaluru,Q2 2017,121.7
+blr,CBD - Bengaluru,Q3 2017,121.9
+blr,CBD - Bengaluru,Q4 2017,126.3
+blr,CBD - Bengaluru,Q1 2018,129.5
+blr,CBD - Bengaluru,Q2 2018,130.6
+blr,CBD - Bengaluru,Q3 2018,131.7
+blr,CBD - Bengaluru,Q4 2018,131.7
+blr,CBD - Bengaluru,Q1 2019,135.5
+blr,CBD - Bengaluru,Q2 2019,142.1
+blr,CBD - Bengaluru,Q3 2019,137.2
+blr,CBD - Bengaluru,Q4 2019,145.0
+blr,CBD - Bengaluru,Q1 2020,146.3
+blr,CBD - Bengaluru,Q2 2020,147.8
+blr,CBD - Bengaluru,Q3 2020,150.0
+blr,CBD - Bengaluru,Q4 2020,154.1
+blr,CBD - Bengaluru,Q1 2021,155.5
+blr,CBD - Bengaluru,Q2 2021,155.9
+blr,CBD - Bengaluru,Q3 2021,157.4
+blr,CBD - Bengaluru,Q4 2021,152.8
+blr,CBD - Bengaluru,Q1 2022,151.4
+blr,CBD - Bengaluru,Q2 2022,146.2
+blr,CBD - Bengaluru,Q3 2022,138.3
+blr,CBD - Bengaluru,Q4 2022,132.2
+blr,CBD - Bengaluru,Q1 2023,124.2
+blr,CBD - Bengaluru,Q2 2023,128.1
+blr,CBD - Bengaluru,Q3 2023,128.6
+blr,CBD - Bengaluru,Q4 2023,140.5
+blr,CBD - Bengaluru,Q1 2024,148.2
+blr,CBD - Bengaluru,Q2 2024,148.0
+blr,CBD - Bengaluru,Q3 2024,149.7
+blr,CBD - Bengaluru,Q4 2024,155.9
+blr,CBD - Bengaluru,Q1 2025,159.9
+blr,CBD - Bengaluru,Q2 2025,162.9
+blr,CBD - Bengaluru,Q3 2025,172.0
+blr,Whitefield,Q1 2014,100.0
+blr,Whitefield,Q2 2014,105.3
+blr,Whitefield,Q3 2014,101.5
+blr,Whitefield,Q4 2014,108.1
+blr,Whitefield,Q1 2015,105.6
+blr,Whitefield,Q2 2015,106.2
+blr,Whitefield,Q3 2015,110.6
+blr,Whitefield,Q4 2015,114.8
+blr,Whitefield,Q1 2016,114.8
+blr,Whitefield,Q2 2016,114.6
+blr,Whitefield,Q3 2016,119.7
+blr,Whitefield,Q4 2016,118.4
+blr,Whitefield,Q1 2017,118.7
+blr,Whitefield,Q2 2017,127.1
+blr,Whitefield,Q3 2017,123.1
+blr,Whitefield,Q4 2017,131.9
+blr,Whitefield,Q1 2018,140.8
+blr,Whitefield,Q2 2018,141.9
+blr,Whitefield,Q3 2018,144.7
+blr,Whitefield,Q4 2018,145.3
+blr,Whitefield,Q1 2019,151.3
+blr,Whitefield,Q2 2019,158.7
+blr,Whitefield,Q3 2019,160.5
+blr,Whitefield,Q4 2019,159.6
+blr,Whitefield,Q1 2020,162.3
+blr,Whitefield,Q2 2020,165.5
+blr,Whitefield,Q3 2020,167.3
+blr,Whitefield,Q4 2020,171.3
+blr,Whitefield,Q1 2021,174.1
+blr,Whitefield,Q2 2021,171.8
+blr,Whitefield,Q3 2021,170.6
+blr,Whitefield,Q4 2021,164.2
+blr,Whitefield,Q1 2022,161.9
+blr,Whitefield,Q2 2022,167.0
+blr,Whitefield,Q3 2022,171.6
+blr,Whitefield,Q4 2022,177.6
+blr,Whitefield,Q1 2023,183.5
+blr,Whitefield,Q2 2023,185.6
+blr,Whitefield,Q3 2023,193.1
+blr,Whitefield,Q4 2023,198.3
+blr,Whitefield,Q1 2024,199.0
+blr,Whitefield,Q2 2024,195.4
+blr,Whitefield,Q3 2024,187.9
+blr,Whitefield,Q4 2024,186.9
+blr,Whitefield,Q1 2025,186.9
+blr,Whitefield,Q2 2025,189.6
+blr,Whitefield,Q3 2025,200.6
+blr,South Bengaluru,Q1 2014,100.0
+blr,South Bengaluru,Q2 2014,109.6
+blr,South Bengaluru,Q3 2014,92.6
+blr,South Bengaluru,Q4 2014,101.8
+blr,South Bengaluru,Q1 2015,104.7
+blr,South Bengaluru,Q2 2015,100.4
+blr,South Bengaluru,Q3 2015,111.8
+blr,South Bengaluru,Q4 2015,119.9
+blr,South Bengaluru,Q1 2016,118.1
+blr,South Bengaluru,Q2 2016,123.3
+blr,South Bengaluru,Q3 2016,119.9
+blr,South Bengaluru,Q4 2016,124.3
+blr,South Bengaluru,Q1 2017,117.6
+blr,South Bengaluru,Q2 2017,128.7
+blr,South Bengaluru,Q3 2017,128.1
+blr,South Bengaluru,Q4 2017,155.4
+blr,South Bengaluru,Q1 2018,187.1
+blr,South Bengaluru,Q2 2018,174.6
+blr,South Bengaluru,Q3 2018,170.2
+blr,South Bengaluru,Q4 2018,167.1
+blr,South Bengaluru,Q1 2019,143.7
+blr,South Bengaluru,Q2 2019,149.5
+blr,South Bengaluru,Q3 2019,151.7
+blr,South Bengaluru,Q4 2019,155.1
+blr,South Bengaluru,Q1 2020,150.7
+blr,South Bengaluru,Q2 2020,148.0
+blr,South Bengaluru,Q3 2020,143.8
+blr,South Bengaluru,Q4 2020,140.5
+blr,South Bengaluru,Q1 2021,144.2
+blr,South Bengaluru,Q2 2021,143.3
+blr,South Bengaluru,Q3 2021,148.5
+blr,South Bengaluru,Q4 2021,145.6
+blr,South Bengaluru,Q1 2022,147.8
+blr,South Bengaluru,Q2 2022,152.6
+blr,South Bengaluru,Q3 2022,161.4
+blr,South Bengaluru,Q4 2022,166.9
+blr,South Bengaluru,Q1 2023,174.1
+blr,South Bengaluru,Q2 2023,181.3
+blr,South Bengaluru,Q3 2023,182.6
+blr,South Bengaluru,Q4 2023,179.4
+blr,South Bengaluru,Q1 2024,169.2
+blr,South Bengaluru,Q2 2024,169.7
+blr,South Bengaluru,Q3 2024,163.5
+blr,South Bengaluru,Q4 2024,160.3
+blr,South Bengaluru,Q1 2025,160.2
+blr,South Bengaluru,Q2 2025,155.0
+blr,South Bengaluru,Q3 2025,159.3
+blr,Off-CBD Bengaluru,Q1 2014,100.0
+blr,Off-CBD Bengaluru,Q2 2014,97.6
+blr,Off-CBD Bengaluru,Q3 2014,95.9
+blr,Off-CBD Bengaluru,Q4 2014,99.0
+blr,Off-CBD Bengaluru,Q1 2015,97.0
+blr,Off-CBD Bengaluru,Q2 2015,103.1
+blr,Off-CBD Bengaluru,Q3 2015,102.3
+blr,Off-CBD Bengaluru,Q4 2015,107.0
+blr,Off-CBD Bengaluru,Q1 2016,102.7
+blr,Off-CBD Bengaluru,Q2 2016,110.7
+blr,Off-CBD Bengaluru,Q3 2016,114.1
+blr,Off-CBD Bengaluru,Q4 2016,124.8
+blr,Off-CBD Bengaluru,Q1 2017,113.0
+blr,Off-CBD Bengaluru,Q2 2017,115.4
+blr,Off-CBD Bengaluru,Q3 2017,130.5
+blr,Off-CBD Bengaluru,Q4 2017,125.9
+blr,Off-CBD Bengaluru,Q1 2018,129.4
+blr,Off-CBD Bengaluru,Q2 2018,129.7
+blr,Off-CBD Bengaluru,Q3 2018,130.0
+blr,Off-CBD Bengaluru,Q4 2018,130.5
+blr,Off-CBD Bengaluru,Q1 2019,136.3
+blr,Off-CBD Bengaluru,Q2 2019,140.8
+blr,Off-CBD Bengaluru,Q3 2019,143.6
+blr,Off-CBD Bengaluru,Q4 2019,145.9
+blr,Off-CBD Bengaluru,Q1 2020,145.5
+blr,Off-CBD Bengaluru,Q2 2020,147.1
+blr,Off-CBD Bengaluru,Q3 2020,144.8
+blr,Off-CBD Bengaluru,Q4 2020,143.2
+blr,Off-CBD Bengaluru,Q1 2021,141.1
+blr,Off-CBD Bengaluru,Q2 2021,139.6
+blr,Off-CBD Bengaluru,Q3 2021,143.8
+blr,Off-CBD Bengaluru,Q4 2021,141.5
+blr,Off-CBD Bengaluru,Q1 2022,146.7
+blr,Off-CBD Bengaluru,Q2 2022,151.2
+blr,Off-CBD Bengaluru,Q3 2022,156.3
+blr,Off-CBD Bengaluru,Q4 2022,162.6
+blr,Off-CBD Bengaluru,Q1 2023,167.2
+blr,Off-CBD Bengaluru,Q2 2023,171.8
+blr,Off-CBD Bengaluru,Q3 2023,166.5
+blr,Off-CBD Bengaluru,Q4 2023,168.9
+blr,Off-CBD Bengaluru,Q1 2024,169.3
+blr,Off-CBD Bengaluru,Q2 2024,169.3
+blr,Off-CBD Bengaluru,Q3 2024,169.7
+blr,Off-CBD Bengaluru,Q4 2024,165.9
+blr,Off-CBD Bengaluru,Q1 2025,162.3
+blr,Off-CBD Bengaluru,Q2 2025,158.6
+blr,Off-CBD Bengaluru,Q3 2025,154.7
+blr,North West Bengaluru,Q1 2014,100.0
+blr,North West Bengaluru,Q2 2014,110.1
+blr,North West Bengaluru,Q3 2014,107.3
+blr,North West Bengaluru,Q4 2014,115.0
+blr,North West Bengaluru,Q1 2015,112.4
+blr,North West Bengaluru,Q2 2015,119.5
+blr,North West Bengaluru,Q3 2015,124.6
+blr,North West Bengaluru,Q4 2015,124.5
+blr,North West Bengaluru,Q1 2016,125.0
+blr,North West Bengaluru,Q2 2016,127.8
+blr,North West Bengaluru,Q3 2016,126.3
+blr,North West Bengaluru,Q4 2016,129.0
+blr,North West Bengaluru,Q1 2017,128.9
+blr,North West Bengaluru,Q2 2017,135.0
+blr,North West Bengaluru,Q3 2017,136.3
+blr,North West Bengaluru,Q4 2017,137.4
+blr,North West Bengaluru,Q1 2018,143.2
+blr,North West Bengaluru,Q2 2018,144.0
+blr,North West Bengaluru,Q3 2018,145.5
+blr,North West Bengaluru,Q4 2018,146.3
+blr,North West Bengaluru,Q1 2019,151.4
+blr,North West Bengaluru,Q2 2019,156.4
+blr,North West Bengaluru,Q3 2019,156.5
+blr,North West Bengaluru,Q4 2019,158.8
+blr,North West Bengaluru,Q1 2020,159.9
+blr,North West Bengaluru,Q2 2020,164.4
+blr,North West Bengaluru,Q3 2020,166.2
+blr,North West Bengaluru,Q4 2020,166.9
+blr,North West Bengaluru,Q1 2021,167.7
+blr,North West Bengaluru,Q2 2021,177.5
+blr,North West Bengaluru,Q3 2021,182.7
+blr,North West Bengaluru,Q4 2021,184.8
+blr,North West Bengaluru,Q1 2022,189.1
+blr,North West Bengaluru,Q2 2022,193.0
+blr,North West Bengaluru,Q3 2022,197.8
+blr,North West Bengaluru,Q4 2022,199.4
+blr,North West Bengaluru,Q1 2023,206.5
+blr,North West Bengaluru,Q2 2023,214.3
+blr,North West Bengaluru,Q3 2023,220.7
+blr,North West Bengaluru,Q4 2023,225.5
+blr,North West Bengaluru,Q1 2024,225.8
+blr,North West Bengaluru,Q2 2024,224.4
+blr,North West Bengaluru,Q3 2024,223.0
+blr,North West Bengaluru,Q4 2024,227.8
+blr,North West Bengaluru,Q1 2025,229.6
+blr,North West Bengaluru,Q2 2025,232.6
+blr,North West Bengaluru,Q3 2025,244.0
+blr,North Bengaluru,Q1 2014,100.0
+blr,North Bengaluru,Q2 2014,107.8
+blr,North Bengaluru,Q3 2014,103.7
+blr,North Bengaluru,Q4 2014,111.1
+blr,North Bengaluru,Q1 2015,98.8
+blr,North Bengaluru,Q2 2015,104.0
+blr,North Bengaluru,Q3 2015,114.9
+blr,North Bengaluru,Q4 2015,121.5
+blr,North Bengaluru,Q1 2016,104.1
+blr,North Bengaluru,Q2 2016,119.1
+blr,North Bengaluru,Q3 2016,119.5
+blr,North Bengaluru,Q4 2016,125.3
+blr,North Bengaluru,Q1 2017,116.5
+blr,North Bengaluru,Q2 2017,128.2
+blr,North Bengaluru,Q3 2017,129.1
+blr,North Bengaluru,Q4 2017,129.5
+blr,North Bengaluru,Q1 2018,127.1
+blr,North Bengaluru,Q2 2018,129.0
+blr,North Bengaluru,Q3 2018,130.4
+blr,North Bengaluru,Q4 2018,131.4
+blr,North Bengaluru,Q1 2019,136.2
+blr,North Bengaluru,Q2 2019,138.4
+blr,North Bengaluru,Q3 2019,141.8
+blr,North Bengaluru,Q4 2019,143.6
+blr,North Bengaluru,Q1 2020,155.1
+blr,North Bengaluru,Q2 2020,160.9
+blr,North Bengaluru,Q3 2020,163.5
+blr,North Bengaluru,Q4 2020,166.6
+blr,North Bengaluru,Q1 2021,168.2
+blr,North Bengaluru,Q2 2021,171.7
+blr,North Bengaluru,Q3 2021,175.5
+blr,North Bengaluru,Q4 2021,166.7
+blr,North Bengaluru,Q1 2022,169.7
+blr,North Bengaluru,Q2 2022,167.8
+blr,North Bengaluru,Q3 2022,169.2
+blr,North Bengaluru,Q4 2022,184.1
+blr,North Bengaluru,Q1 2023,186.4
+blr,North Bengaluru,Q2 2023,195.4
+blr,North Bengaluru,Q3 2023,200.3
+blr,North Bengaluru,Q4 2023,203.1
+blr,North Bengaluru,Q1 2024,207.1
+blr,North Bengaluru,Q2 2024,202.3
+blr,North Bengaluru,Q3 2024,195.4
+blr,North Bengaluru,Q4 2024,194.6
+blr,North Bengaluru,Q1 2025,197.5
+blr,North Bengaluru,Q2 2025,210.5
+blr,North Bengaluru,Q3 2025,235.1
+blr,Outer Ring Road,Q1 2014,100.0
+blr,Outer Ring Road,Q2 2014,113.9
+blr,Outer Ring Road,Q3 2014,100.3
+blr,Outer Ring Road,Q4 2014,113.6
+blr,Outer Ring Road,Q1 2015,115.4
+blr,Outer Ring Road,Q2 2015,112.0
+blr,Outer Ring Road,Q3 2015,118.0
+blr,Outer Ring Road,Q4 2015,130.5
+blr,Outer Ring Road,Q1 2016,112.5
+blr,Outer Ring Road,Q2 2016,130.1
+blr,Outer Ring Road,Q3 2016,123.0
+blr,Outer Ring Road,Q4 2016,130.9
+blr,Outer Ring Road,Q1 2017,127.8
+blr,Outer Ring Road,Q2 2017,126.7
+blr,Outer Ring Road,Q3 2017,123.5
+blr,Outer Ring Road,Q4 2017,134.6
+blr,Outer Ring Road,Q1 2018,147.6
+blr,Outer Ring Road,Q2 2018,147.8
+blr,Outer Ring Road,Q3 2018,148.1
+blr,Outer Ring Road,Q4 2018,148.3
+blr,Outer Ring Road,Q1 2019,153.8
+blr,Outer Ring Road,Q2 2019,155.0
+blr,Outer Ring Road,Q3 2019,156.6
+blr,Outer Ring Road,Q4 2019,160.4
+blr,Outer Ring Road,Q1 2020,163.9
+blr,Outer Ring Road,Q2 2020,171.0
+blr,Outer Ring Road,Q3 2020,175.3
+blr,Outer Ring Road,Q4 2020,178.4
+blr,Outer Ring Road,Q1 2021,178.0
+blr,Outer Ring Road,Q2 2021,178.8
+blr,Outer Ring Road,Q3 2021,176.3
+blr,Outer Ring Road,Q4 2021,170.7
+blr,Outer Ring Road,Q1 2022,171.6
+blr,Outer Ring Road,Q2 2022,168.7
+blr,Outer Ring Road,Q3 2022,171.6
+blr,Outer Ring Road,Q4 2022,173.5
+blr,Outer Ring Road,Q1 2023,174.5
+blr,Outer Ring Road,Q2 2023,178.8
+blr,Outer Ring Road,Q3 2023,179.6
+blr,Outer Ring Road,Q4 2023,190.5
+blr,Outer Ring Road,Q1 2024,197.4
+blr,Outer Ring Road,Q2 2024,203.3
+blr,Outer Ring Road,Q3 2024,209.4
+blr,Outer Ring Road,Q4 2024,218.8
+blr,Outer Ring Road,Q1 2025,225.3
+blr,Outer Ring Road,Q2 2025,243.3
+blr,Outer Ring Road,Q3 2025,277.4
+chn,Chennai,Q1 2014,100.0
+chn,Chennai,Q2 2014,103.6
+chn,Chennai,Q3 2014,100.1
+chn,Chennai,Q4 2014,111.0
+chn,Chennai,Q1 2015,111.1
+chn,Chennai,Q2 2015,109.7
+chn,Chennai,Q3 2015,102.4
+chn,Chennai,Q4 2015,112.7
+chn,Chennai,Q1 2016,115.0
+chn,Chennai,Q2 2016,125.3
+chn,Chennai,Q3 2016,121.4
+chn,Chennai,Q4 2016,135.9
+chn,Chennai,Q1 2017,125.7
+chn,Chennai,Q2 2017,122.0
+chn,Chennai,Q3 2017,125.1
+chn,Chennai,Q4 2017,123.5
+chn,Chennai,Q1 2018,131.4
+chn,Chennai,Q2 2018,131.1
+chn,Chennai,Q3 2018,129.4
+chn,Chennai,Q4 2018,131.6
+chn,Chennai,Q1 2019,134.0
+chn,Chennai,Q2 2019,136.3
+chn,Chennai,Q3 2019,140.6
+chn,Chennai,Q4 2019,141.0
+chn,Chennai,Q1 2020,140.4
+chn,Chennai,Q2 2020,139.7
+chn,Chennai,Q3 2020,139.5
+chn,Chennai,Q4 2020,137.6
+chn,Chennai,Q1 2021,136.8
+chn,Chennai,Q2 2021,137.3
+chn,Chennai,Q3 2021,138.6
+chn,Chennai,Q4 2021,142.5
+chn,Chennai,Q1 2022,143.5
+chn,Chennai,Q2 2022,150.8
+chn,Chennai,Q3 2022,150.2
+chn,Chennai,Q4 2022,153.6
+chn,Chennai,Q1 2023,154.5
+chn,Chennai,Q2 2023,151.3
+chn,Chennai,Q3 2023,154.8
+chn,Chennai,Q4 2023,156.5
+chn,Chennai,Q1 2024,162.7
+chn,Chennai,Q2 2024,168.1
+chn,Chennai,Q3 2024,168.7
+chn,Chennai,Q4 2024,168.9
+chn,Chennai,Q1 2025,165.6
+chn,Chennai,Q2 2025,161.9
+chn,Chennai,Q3 2025,158.6
+del,South Delhi,Q1 2014,100.0
+del,South Delhi,Q2 2014,105.1
+del,South Delhi,Q3 2014,101.3
+del,South Delhi,Q4 2014,104.0
+del,South Delhi,Q1 2015,151.3
+del,South Delhi,Q2 2015,107.2
+del,South Delhi,Q3 2015,145.1
+del,South Delhi,Q4 2015,93.8
+del,South Delhi,Q1 2016,104.8
+del,South Delhi,Q2 2016,133.2
+del,South Delhi,Q3 2016,114.8
+del,South Delhi,Q4 2016,109.5
+del,South Delhi,Q1 2017,103.8
+del,South Delhi,Q2 2017,134.6
+del,South Delhi,Q3 2017,109.3
+del,South Delhi,Q4 2017,154.5
+del,South Delhi,Q1 2018,151.0
+del,South Delhi,Q2 2018,155.9
+del,South Delhi,Q3 2018,155.8
+del,South Delhi,Q4 2018,156.2
+del,South Delhi,Q1 2019,164.4
+del,South Delhi,Q2 2019,159.7
+del,South Delhi,Q3 2019,153.2
+del,South Delhi,Q4 2019,142.7
+del,South Delhi,Q1 2020,130.3
+del,South Delhi,Q2 2020,129.3
+del,South Delhi,Q3 2020,131.4
+del,South Delhi,Q4 2020,138.4
+del,South Delhi,Q1 2021,141.0
+del,South Delhi,Q2 2021,137.5
+del,South Delhi,Q3 2021,128.6
+del,South Delhi,Q4 2021,122.3
+del,South Delhi,Q1 2022,120.4
+del,South Delhi,Q2 2022,118.8
+del,South Delhi,Q3 2022,123.8
+del,South Delhi,Q4 2022,126.5
+del,South Delhi,Q1 2023,123.2
+del,South Delhi,Q2 2023,122.3
+del,South Delhi,Q3 2023,120.7
+del,South Delhi,Q4 2023,117.3
+del,South Delhi,Q1 2024,122.3
+del,South Delhi,Q2 2024,122.3
+del,South Delhi,Q3 2024,124.4
+del,South Delhi,Q4 2024,134.8
+del,South Delhi,Q1 2025,137.4
+del,South Delhi,Q2 2025,139.5
+del,South Delhi,Q3 2025,147.5
+del,CBD Delhi,Q1 2014,100.0
+del,CBD Delhi,Q2 2014,114.6
+del,CBD Delhi,Q3 2014,117.4
+del,CBD Delhi,Q4 2014,106.3
+del,CBD Delhi,Q1 2015,112.6
+del,CBD Delhi,Q2 2015,100.9
+del,CBD Delhi,Q3 2015,97.3
+del,CBD Delhi,Q4 2015,95.2
+del,CBD Delhi,Q1 2016,95.9
+del,CBD Delhi,Q2 2016,111.2
+del,CBD Delhi,Q3 2016,106.2
+del,CBD Delhi,Q4 2016,96.6
+del,CBD Delhi,Q1 2017,108.2
+del,CBD Delhi,Q2 2017,103.5
+del,CBD Delhi,Q3 2017,104.2
+del,CBD Delhi,Q4 2017,92.1
+del,CBD Delhi,Q1 2018,92.8
+del,CBD Delhi,Q2 2018,92.7
+del,CBD Delhi,Q3 2018,93.3
+del,CBD Delhi,Q4 2018,93.6
+del,CBD Delhi,Q1 2019,95.4
+del,CBD Delhi,Q2 2019,102.1
+del,CBD Delhi,Q3 2019,100.5
+del,CBD Delhi,Q4 2019,100.0
+del,CBD Delhi,Q1 2020,95.6
+del,CBD Delhi,Q2 2020,93.9
+del,CBD Delhi,Q3 2020,93.3
+del,CBD Delhi,Q4 2020,94.6
+del,CBD Delhi,Q1 2021,95.0
+del,CBD Delhi,Q2 2021,91.8
+del,CBD Delhi,Q3 2021,91.3
+del,CBD Delhi,Q4 2021,93.3
+del,CBD Delhi,Q1 2022,99.4
+del,CBD Delhi,Q2 2022,100.1
+del,CBD Delhi,Q3 2022,103.5
+del,CBD Delhi,Q4 2022,104.6
+del,CBD Delhi,Q1 2023,103.5
+del,CBD Delhi,Q2 2023,102.0
+del,CBD Delhi,Q3 2023,100.7
+del,CBD Delhi,Q4 2023,99.7
+del,CBD Delhi,Q1 2024,102.4
+del,CBD Delhi,Q2 2024,103.1
+del,CBD Delhi,Q3 2024,105.2
+del,CBD Delhi,Q4 2024,111.4
+del,CBD Delhi,Q1 2025,114.6
+del,CBD Delhi,Q2 2025,117.5
+del,CBD Delhi,Q3 2025,124.2
+ggn,Central Gurgaon,Q1 2014,100.0
+ggn,Central Gurgaon,Q2 2014,92.6
+ggn,Central Gurgaon,Q3 2014,97.9
+ggn,Central Gurgaon,Q4 2014,102.8
+ggn,Central Gurgaon,Q1 2015,103.2
+ggn,Central Gurgaon,Q2 2015,105.8
+ggn,Central Gurgaon,Q3 2015,103.7
+ggn,Central Gurgaon,Q4 2015,105.5
+ggn,Central Gurgaon,Q1 2016,108.2
+ggn,Central Gurgaon,Q2 2016,111.5
+ggn,Central Gurgaon,Q3 2016,116.1
+ggn,Central Gurgaon,Q4 2016,109.6
+ggn,Central Gurgaon,Q1 2017,119.1
+ggn,Central Gurgaon,Q2 2017,109.6
+ggn,Central Gurgaon,Q3 2017,120.9
+ggn,Central Gurgaon,Q4 2017,119.3
+ggn,Central Gurgaon,Q1 2018,120.2
+ggn,Central Gurgaon,Q2 2018,121.5
+ggn,Central Gurgaon,Q3 2018,121.7
+ggn,Central Gurgaon,Q4 2018,121.7
+ggn,Central Gurgaon,Q1 2019,134.0
+ggn,Central Gurgaon,Q2 2019,130.7
+ggn,Central Gurgaon,Q3 2019,131.2
+ggn,Central Gurgaon,Q4 2019,131.1
+ggn,Central Gurgaon,Q1 2020,132.7
+ggn,Central Gurgaon,Q2 2020,132.1
+ggn,Central Gurgaon,Q3 2020,130.8
+ggn,Central Gurgaon,Q4 2020,130.6
+ggn,Central Gurgaon,Q1 2021,128.1
+ggn,Central Gurgaon,Q2 2021,125.5
+ggn,Central Gurgaon,Q3 2021,124.9
+ggn,Central Gurgaon,Q4 2021,123.6
+ggn,Central Gurgaon,Q1 2022,125.6
+ggn,Central Gurgaon,Q2 2022,129.7
+ggn,Central Gurgaon,Q3 2022,133.0
+ggn,Central Gurgaon,Q4 2022,138.6
+ggn,Central Gurgaon,Q1 2023,141.5
+ggn,Central Gurgaon,Q2 2023,142.6
+ggn,Central Gurgaon,Q3 2023,144.7
+ggn,Central Gurgaon,Q4 2023,145.0
+ggn,Central Gurgaon,Q1 2024,147.8
+ggn,Central Gurgaon,Q2 2024,150.3
+ggn,Central Gurgaon,Q3 2024,149.8
+ggn,Central Gurgaon,Q4 2024,153.1
+ggn,Central Gurgaon,Q1 2025,154.1
+ggn,Central Gurgaon,Q2 2025,157.2
+ggn,Central Gurgaon,Q3 2025,160.1
+ggn,Golf Course Road,Q1 2014,100.0
+ggn,Golf Course Road,Q2 2014,95.2
+ggn,Golf Course Road,Q3 2014,94.4
+ggn,Golf Course Road,Q4 2014,105.5
+ggn,Golf Course Road,Q1 2015,113.8
+ggn,Golf Course Road,Q2 2015,110.8
+ggn,Golf Course Road,Q3 2015,104.7
+ggn,Golf Course Road,Q4 2015,103.7
+ggn,Golf Course Road,Q1 2016,118.2
+ggn,Golf Course Road,Q2 2016,123.2
+ggn,Golf Course Road,Q3 2016,114.9
+ggn,Golf Course Road,Q4 2016,119.5
+ggn,Golf Course Road,Q1 2017,125.1
+ggn,Golf Course Road,Q2 2017,123.5
+ggn,Golf Course Road,Q3 2017,126.6
+ggn,Golf Course Road,Q4 2017,136.4
+ggn,Golf Course Road,Q1 2018,144.2
+ggn,Golf Course Road,Q2 2018,144.6
+ggn,Golf Course Road,Q3 2018,145.1
+ggn,Golf Course Road,Q4 2018,143.3
+ggn,Golf Course Road,Q1 2019,145.1
+ggn,Golf Course Road,Q2 2019,144.9
+ggn,Golf Course Road,Q3 2019,144.1
+ggn,Golf Course Road,Q4 2019,144.8
+ggn,Golf Course Road,Q1 2020,134.4
+ggn,Golf Course Road,Q2 2020,133.1
+ggn,Golf Course Road,Q3 2020,132.6
+ggn,Golf Course Road,Q4 2020,136.2
+ggn,Golf Course Road,Q1 2021,147.4
+ggn,Golf Course Road,Q2 2021,144.3
+ggn,Golf Course Road,Q3 2021,144.0
+ggn,Golf Course Road,Q4 2021,140.6
+ggn,Golf Course Road,Q1 2022,140.3
+ggn,Golf Course Road,Q2 2022,144.6
+ggn,Golf Course Road,Q3 2022,143.9
+ggn,Golf Course Road,Q4 2022,142.2
+ggn,Golf Course Road,Q1 2023,144.0
+ggn,Golf Course Road,Q2 2023,145.0
+ggn,Golf Course Road,Q3 2023,148.5
+ggn,Golf Course Road,Q4 2023,153.0
+ggn,Golf Course Road,Q1 2024,152.7
+ggn,Golf Course Road,Q2 2024,156.4
+ggn,Golf Course Road,Q3 2024,156.3
+ggn,Golf Course Road,Q4 2024,161.9
+ggn,Golf Course Road,Q1 2025,161.3
+ggn,Golf Course Road,Q2 2025,163.0
+ggn,Golf Course Road,Q3 2025,167.5
+ggn,Gurgaon Others,Q1 2014,100.0
+ggn,Gurgaon Others,Q2 2014,94.9
+ggn,Gurgaon Others,Q3 2014,98.9
+ggn,Gurgaon Others,Q4 2014,102.8
+ggn,Gurgaon Others,Q1 2015,107.7
+ggn,Gurgaon Others,Q2 2015,103.4
+ggn,Gurgaon Others,Q3 2015,102.4
+ggn,Gurgaon Others,Q4 2015,104.5
+ggn,Gurgaon Others,Q1 2016,108.9
+ggn,Gurgaon Others,Q2 2016,109.3
+ggn,Gurgaon Others,Q3 2016,118.5
+ggn,Gurgaon Others,Q4 2016,110.4
+ggn,Gurgaon Others,Q1 2017,115.9
+ggn,Gurgaon Others,Q2 2017,110.6
+ggn,Gurgaon Others,Q3 2017,121.1
+ggn,Gurgaon Others,Q4 2017,118.5
+ggn,Gurgaon Others,Q1 2018,116.9
+ggn,Gurgaon Others,Q2 2018,120.1
+ggn,Gurgaon Others,Q3 2018,120.8
+ggn,Gurgaon Others,Q4 2018,121.1
+ggn,Gurgaon Others,Q1 2019,125.9
+ggn,Gurgaon Others,Q2 2019,126.0
+ggn,Gurgaon Others,Q3 2019,126.9
+ggn,Gurgaon Others,Q4 2019,129.8
+ggn,Gurgaon Others,Q1 2020,132.4
+ggn,Gurgaon Others,Q2 2020,135.0
+ggn,Gurgaon Others,Q3 2020,137.4
+ggn,Gurgaon Others,Q4 2020,138.8
+ggn,Gurgaon Others,Q1 2021,136.8
+ggn,Gurgaon Others,Q2 2021,133.2
+ggn,Gurgaon Others,Q3 2021,130.0
+ggn,Gurgaon Others,Q4 2021,125.6
+ggn,Gurgaon Others,Q1 2022,124.1
+ggn,Gurgaon Others,Q2 2022,123.8
+ggn,Gurgaon Others,Q3 2022,123.8
+ggn,Gurgaon Others,Q4 2022,126.5
+ggn,Gurgaon Others,Q1 2023,129.6
+ggn,Gurgaon Others,Q2 2023,132.7
+ggn,Gurgaon Others,Q3 2023,136.6
+ggn,Gurgaon Others,Q4 2023,140.3
+ggn,Gurgaon Others,Q1 2024,142.6
+ggn,Gurgaon Others,Q2 2024,142.0
+ggn,Gurgaon Others,Q3 2024,143.9
+ggn,Gurgaon Others,Q4 2024,145.8
+ggn,Gurgaon Others,Q1 2025,148.2
+ggn,Gurgaon Others,Q2 2025,154.7
+ggn,Gurgaon Others,Q3 2025,162.8
+ggn,NH-48 Prime,Q1 2014,100.0
+ggn,NH-48 Prime,Q2 2014,95.9
+ggn,NH-48 Prime,Q3 2014,96.9
+ggn,NH-48 Prime,Q4 2014,102.0
+ggn,NH-48 Prime,Q1 2015,107.8
+ggn,NH-48 Prime,Q2 2015,100.6
+ggn,NH-48 Prime,Q3 2015,103.3
+ggn,NH-48 Prime,Q4 2015,106.0
+ggn,NH-48 Prime,Q1 2016,106.8
+ggn,NH-48 Prime,Q2 2016,109.1
+ggn,NH-48 Prime,Q3 2016,114.8
+ggn,NH-48 Prime,Q4 2016,114.4
+ggn,NH-48 Prime,Q1 2017,113.5
+ggn,NH-48 Prime,Q2 2017,109.1
+ggn,NH-48 Prime,Q3 2017,116.2
+ggn,NH-48 Prime,Q4 2017,114.4
+ggn,NH-48 Prime,Q1 2018,113.5
+ggn,NH-48 Prime,Q2 2018,113.7
+ggn,NH-48 Prime,Q3 2018,113.9
+ggn,NH-48 Prime,Q4 2018,114.1
+ggn,NH-48 Prime,Q1 2019,120.1
+ggn,NH-48 Prime,Q2 2019,120.6
+ggn,NH-48 Prime,Q3 2019,121.0
+ggn,NH-48 Prime,Q4 2019,122.8
+ggn,NH-48 Prime,Q1 2020,124.8
+ggn,NH-48 Prime,Q2 2020,132.4
+ggn,NH-48 Prime,Q3 2020,136.5
+ggn,NH-48 Prime,Q4 2020,137.1
+ggn,NH-48 Prime,Q1 2021,139.7
+ggn,NH-48 Prime,Q2 2021,135.6
+ggn,NH-48 Prime,Q3 2021,129.7
+ggn,NH-48 Prime,Q4 2021,129.2
+ggn,NH-48 Prime,Q1 2022,130.5
+ggn,NH-48 Prime,Q2 2022,129.8
+ggn,NH-48 Prime,Q3 2022,129.5
+ggn,NH-48 Prime,Q4 2022,130.0
+ggn,NH-48 Prime,Q1 2023,133.4
+ggn,NH-48 Prime,Q2 2023,138.3
+ggn,NH-48 Prime,Q3 2023,142.9
+ggn,NH-48 Prime,Q4 2023,144.5
+ggn,NH-48 Prime,Q1 2024,147.3
+ggn,NH-48 Prime,Q2 2024,149.4
+ggn,NH-48 Prime,Q3 2024,152.0
+ggn,NH-48 Prime,Q4 2024,160.8
+ggn,NH-48 Prime,Q1 2025,165.3
+ggn,NH-48 Prime,Q2 2025,173.4
+ggn,NH-48 Prime,Q3 2025,188.4
+ggn,Sohna Road,Q1 2014,100.0
+ggn,Sohna Road,Q2 2014,91.7
+ggn,Sohna Road,Q3 2014,101.0
+ggn,Sohna Road,Q4 2014,103.8
+ggn,Sohna Road,Q1 2015,101.0
+ggn,Sohna Road,Q2 2015,96.7
+ggn,Sohna Road,Q3 2015,102.6
+ggn,Sohna Road,Q4 2015,101.7
+ggn,Sohna Road,Q1 2016,106.0
+ggn,Sohna Road,Q2 2016,111.6
+ggn,Sohna Road,Q3 2016,122.2
+ggn,Sohna Road,Q4 2016,112.9
+ggn,Sohna Road,Q1 2017,118.4
+ggn,Sohna Road,Q2 2017,113.2
+ggn,Sohna Road,Q3 2017,123.3
+ggn,Sohna Road,Q4 2017,121.1
+ggn,Sohna Road,Q1 2018,113.6
+ggn,Sohna Road,Q2 2018,120.7
+ggn,Sohna Road,Q3 2018,123.9
+ggn,Sohna Road,Q4 2018,124.5
+ggn,Sohna Road,Q1 2019,130.9
+ggn,Sohna Road,Q2 2019,131.8
+ggn,Sohna Road,Q3 2019,131.7
+ggn,Sohna Road,Q4 2019,136.5
+ggn,Sohna Road,Q1 2020,139.0
+ggn,Sohna Road,Q2 2020,138.8
+ggn,Sohna Road,Q3 2020,139.5
+ggn,Sohna Road,Q4 2020,139.4
+ggn,Sohna Road,Q1 2021,135.2
+ggn,Sohna Road,Q2 2021,129.5
+ggn,Sohna Road,Q3 2021,125.6
+ggn,Sohna Road,Q4 2021,120.3
+ggn,Sohna Road,Q1 2022,120.1
+ggn,Sohna Road,Q2 2022,121.2
+ggn,Sohna Road,Q3 2022,122.6
+ggn,Sohna Road,Q4 2022,127.6
+ggn,Sohna Road,Q1 2023,131.0
+ggn,Sohna Road,Q2 2023,129.9
+ggn,Sohna Road,Q3 2023,128.5
+ggn,Sohna Road,Q4 2023,128.6
+ggn,Sohna Road,Q1 2024,127.5
+ggn,Sohna Road,Q2 2024,131.6
+ggn,Sohna Road,Q3 2024,133.8
+ggn,Sohna Road,Q4 2024,137.3
+ggn,Sohna Road,Q1 2025,147.0
+ggn,Sohna Road,Q2 2025,152.5
+ggn,Sohna Road,Q3 2025,169.9
+hyd,Peripheral East,Q1 2014,100.0
+hyd,Peripheral East,Q2 2014,102.4
+hyd,Peripheral East,Q3 2014,100.6
+hyd,Peripheral East,Q4 2014,103.3
+hyd,Peripheral East,Q1 2015,108.0
+hyd,Peripheral East,Q2 2015,106.1
+hyd,Peripheral East,Q3 2015,109.7
+hyd,Peripheral East,Q4 2015,104.1
+hyd,Peripheral East,Q1 2016,111.4
+hyd,Peripheral East,Q2 2016,111.6
+hyd,Peripheral East,Q3 2016,114.0
+hyd,Peripheral East,Q4 2016,118.9
+hyd,Peripheral East,Q1 2017,122.2
+hyd,Peripheral East,Q2 2017,116.6
+hyd,Peripheral East,Q3 2017,136.5
+hyd,Peripheral East,Q4 2017,134.8
+hyd,Peripheral East,Q1 2018,132.6
+hyd,Peripheral East,Q2 2018,128.7
+hyd,Peripheral East,Q3 2018,130.9
+hyd,Peripheral East,Q4 2018,131.1
+hyd,Peripheral East,Q1 2019,130.0
+hyd,Peripheral East,Q2 2019,133.6
+hyd,Peripheral East,Q3 2019,132.2
+hyd,Peripheral East,Q4 2019,133.9
+hyd,Peripheral East,Q1 2020,142.6
+hyd,Peripheral East,Q2 2020,144.7
+hyd,Peripheral East,Q3 2020,144.5
+hyd,Peripheral East,Q4 2020,145.3
+hyd,Peripheral East,Q1 2021,144.3
+hyd,Peripheral East,Q2 2021,144.5
+hyd,Peripheral East,Q3 2021,142.5
+hyd,Peripheral East,Q4 2021,139.8
+hyd,Peripheral East,Q1 2022,137.5
+hyd,Peripheral East,Q2 2022,136.9
+hyd,Peripheral East,Q3 2022,140.0
+hyd,Peripheral East,Q4 2022,143.9
+hyd,Peripheral East,Q1 2023,149.9
+hyd,Peripheral East,Q2 2023,150.2
+hyd,Peripheral East,Q3 2023,152.2
+hyd,Peripheral East,Q4 2023,152.5
+hyd,Peripheral East,Q1 2024,148.9
+hyd,Peripheral East,Q2 2024,151.5
+hyd,Peripheral East,Q3 2024,157.5
+hyd,Peripheral East,Q4 2024,157.4
+hyd,Peripheral East,Q1 2025,151.7
+hyd,Peripheral East,Q2 2025,149.3
+hyd,Peripheral East,Q3 2025,150.7
+hyd,Hitec City,Q1 2014,100.0
+hyd,Hitec City,Q2 2014,104.2
+hyd,Hitec City,Q3 2014,99.8
+hyd,Hitec City,Q4 2014,108.5
+hyd,Hitec City,Q1 2015,113.1
+hyd,Hitec City,Q2 2015,113.3
+hyd,Hitec City,Q3 2015,117.7
+hyd,Hitec City,Q4 2015,113.3
+hyd,Hitec City,Q1 2016,116.0
+hyd,Hitec City,Q2 2016,117.0
+hyd,Hitec City,Q3 2016,115.2
+hyd,Hitec City,Q4 2016,123.7
+hyd,Hitec City,Q1 2017,123.4
+hyd,Hitec City,Q2 2017,122.4
+hyd,Hitec City,Q3 2017,140.9
+hyd,Hitec City,Q4 2017,140.1
+hyd,Hitec City,Q1 2018,142.3
+hyd,Hitec City,Q2 2018,138.9
+hyd,Hitec City,Q3 2018,139.3
+hyd,Hitec City,Q4 2018,140.4
+hyd,Hitec City,Q1 2019,140.3
+hyd,Hitec City,Q2 2019,144.6
+hyd,Hitec City,Q3 2019,148.3
+hyd,Hitec City,Q4 2019,150.8
+hyd,Hitec City,Q1 2020,156.5
+hyd,Hitec City,Q2 2020,157.5
+hyd,Hitec City,Q3 2020,156.2
+hyd,Hitec City,Q4 2020,157.3
+hyd,Hitec City,Q1 2021,157.3
+hyd,Hitec City,Q2 2021,160.6
+hyd,Hitec City,Q3 2021,164.2
+hyd,Hitec City,Q4 2021,165.1
+hyd,Hitec City,Q1 2022,163.6
+hyd,Hitec City,Q2 2022,166.1
+hyd,Hitec City,Q3 2022,169.4
+hyd,Hitec City,Q4 2022,173.9
+hyd,Hitec City,Q1 2023,180.4
+hyd,Hitec City,Q2 2023,180.2
+hyd,Hitec City,Q3 2023,183.9
+hyd,Hitec City,Q4 2023,186.0
+hyd,Hitec City,Q1 2024,183.6
+hyd,Hitec City,Q2 2024,185.3
+hyd,Hitec City,Q3 2024,188.3
+hyd,Hitec City,Q4 2024,189.6
+hyd,Hitec City,Q1 2025,184.9
+hyd,Hitec City,Q2 2025,185.5
+hyd,Hitec City,Q3 2025,190.3
+hyd,Gachibowli,Q1 2014,100.0
+hyd,Gachibowli,Q2 2014,103.8
+hyd,Gachibowli,Q3 2014,100.0
+hyd,Gachibowli,Q4 2014,102.1
+hyd,Gachibowli,Q1 2015,104.9
+hyd,Gachibowli,Q2 2015,106.2
+hyd,Gachibowli,Q3 2015,110.4
+hyd,Gachibowli,Q4 2015,108.2
+hyd,Gachibowli,Q1 2016,112.6
+hyd,Gachibowli,Q2 2016,112.7
+hyd,Gachibowli,Q3 2016,114.7
+hyd,Gachibowli,Q4 2016,137.9
+hyd,Gachibowli,Q1 2017,127.0
+hyd,Gachibowli,Q2 2017,125.5
+hyd,Gachibowli,Q3 2017,136.6
+hyd,Gachibowli,Q4 2017,137.6
+hyd,Gachibowli,Q1 2018,132.8
+hyd,Gachibowli,Q2 2018,132.8
+hyd,Gachibowli,Q3 2018,132.8
+hyd,Gachibowli,Q4 2018,132.8
+hyd,Gachibowli,Q1 2019,129.0
+hyd,Gachibowli,Q2 2019,162.2
+hyd,Gachibowli,Q3 2019,162.7
+hyd,Gachibowli,Q4 2019,162.8
+hyd,Gachibowli,Q1 2020,166.3
+hyd,Gachibowli,Q2 2020,164.1
+hyd,Gachibowli,Q3 2020,162.0
+hyd,Gachibowli,Q4 2020,162.2
+hyd,Gachibowli,Q1 2021,162.3
+hyd,Gachibowli,Q2 2021,165.0
+hyd,Gachibowli,Q3 2021,169.1
+hyd,Gachibowli,Q4 2021,174.2
+hyd,Gachibowli,Q1 2022,171.3
+hyd,Gachibowli,Q2 2022,168.8
+hyd,Gachibowli,Q3 2022,170.9
+hyd,Gachibowli,Q4 2022,171.5
+hyd,Gachibowli,Q1 2023,173.6
+hyd,Gachibowli,Q2 2023,177.3
+hyd,Gachibowli,Q3 2023,183.1
+hyd,Gachibowli,Q4 2023,185.2
+hyd,Gachibowli,Q1 2024,181.0
+hyd,Gachibowli,Q2 2024,185.8
+hyd,Gachibowli,Q3 2024,192.1
+hyd,Gachibowli,Q4 2024,184.4
+hyd,Gachibowli,Q1 2025,179.7
+hyd,Gachibowli,Q2 2025,171.9
+hyd,Gachibowli,Q3 2025,171.7
+hyd,CBD - Hyderabad,Q1 2014,100.0
+hyd,CBD - Hyderabad,Q2 2014,103.4
+hyd,CBD - Hyderabad,Q3 2014,101.7
+hyd,CBD - Hyderabad,Q4 2014,100.5
+hyd,CBD - Hyderabad,Q1 2015,106.4
+hyd,CBD - Hyderabad,Q2 2015,111.3
+hyd,CBD - Hyderabad,Q3 2015,115.1
+hyd,CBD - Hyderabad,Q4 2015,107.0
+hyd,CBD - Hyderabad,Q1 2016,110.2
+hyd,CBD - Hyderabad,Q2 2016,114.0
+hyd,CBD - Hyderabad,Q3 2016,121.0
+hyd,CBD - Hyderabad,Q4 2016,119.8
+hyd,CBD - Hyderabad,Q1 2017,123.5
+hyd,CBD - Hyderabad,Q2 2017,123.3
+hyd,CBD - Hyderabad,Q3 2017,134.2
+hyd,CBD - Hyderabad,Q4 2017,136.7
+hyd,CBD - Hyderabad,Q1 2018,147.4
+hyd,CBD - Hyderabad,Q2 2018,144.8
+hyd,CBD - Hyderabad,Q3 2018,145.9
+hyd,CBD - Hyderabad,Q4 2018,146.8
+hyd,CBD - Hyderabad,Q1 2019,147.6
+hyd,CBD - Hyderabad,Q2 2019,153.6
+hyd,CBD - Hyderabad,Q3 2019,156.9
+hyd,CBD - Hyderabad,Q4 2019,158.3
+hyd,CBD - Hyderabad,Q1 2020,163.3
+hyd,CBD - Hyderabad,Q2 2020,165.7
+hyd,CBD - Hyderabad,Q3 2020,161.5
+hyd,CBD - Hyderabad,Q4 2020,158.3
+hyd,CBD - Hyderabad,Q1 2021,155.5
+hyd,CBD - Hyderabad,Q2 2021,155.6
+hyd,CBD - Hyderabad,Q3 2021,154.3
+hyd,CBD - Hyderabad,Q4 2021,158.2
+hyd,CBD - Hyderabad,Q1 2022,157.1
+hyd,CBD - Hyderabad,Q2 2022,160.8
+hyd,CBD - Hyderabad,Q3 2022,165.8
+hyd,CBD - Hyderabad,Q4 2022,166.7
+hyd,CBD - Hyderabad,Q1 2023,171.3
+hyd,CBD - Hyderabad,Q2 2023,170.1
+hyd,CBD - Hyderabad,Q3 2023,175.4
+hyd,CBD - Hyderabad,Q4 2023,177.3
+hyd,CBD - Hyderabad,Q1 2024,176.4
+hyd,CBD - Hyderabad,Q2 2024,178.2
+hyd,CBD - Hyderabad,Q3 2024,181.7
+hyd,CBD - Hyderabad,Q4 2024,185.1
+hyd,CBD - Hyderabad,Q1 2025,180.5
+hyd,CBD - Hyderabad,Q2 2025,180.4
+hyd,CBD - Hyderabad,Q3 2025,182.2
+hyd,Genome Valley,Q1 2014,100.0
+hyd,Genome Valley,Q2 2014,100.9
+hyd,Genome Valley,Q3 2014,100.0
+hyd,Genome Valley,Q4 2014,102.1
+hyd,Genome Valley,Q1 2015,103.2
+hyd,Genome Valley,Q2 2015,106.2
+hyd,Genome Valley,Q3 2015,107.1
+hyd,Genome Valley,Q4 2015,108.2
+hyd,Genome Valley,Q1 2016,110.7
+hyd,Genome Valley,Q2 2016,110.5
+hyd,Genome Valley,Q3 2016,112.6
+hyd,Genome Valley,Q4 2016,113.2
+hyd,Genome Valley,Q1 2017,110.4
+hyd,Genome Valley,Q2 2017,115.7
+hyd,Genome Valley,Q3 2017,133.2
+hyd,Genome Valley,Q4 2017,135.4
+hyd,Genome Valley,Q1 2018,137.3
+hyd,Genome Valley,Q2 2018,133.2
+hyd,Genome Valley,Q3 2018,133.2
+hyd,Genome Valley,Q4 2018,133.2
+hyd,Genome Valley,Q1 2019,129.4
+hyd,Genome Valley,Q2 2019,132.0
+hyd,Genome Valley,Q3 2019,133.0
+hyd,Genome Valley,Q4 2019,136.3
+hyd,Genome Valley,Q1 2020,142.2
+hyd,Genome Valley,Q2 2020,144.1
+hyd,Genome Valley,Q3 2020,145.4
+hyd,Genome Valley,Q4 2020,148.9
+hyd,Genome Valley,Q1 2021,153.6
+hyd,Genome Valley,Q2 2021,157.4
+hyd,Genome Valley,Q3 2021,154.8
+hyd,Genome Valley,Q4 2021,152.0
+hyd,Genome Valley,Q1 2022,148.2
+hyd,Genome Valley,Q2 2022,147.8
+hyd,Genome Valley,Q3 2022,151.6
+hyd,Genome Valley,Q4 2022,155.4
+hyd,Genome Valley,Q1 2023,162.0
+hyd,Genome Valley,Q2 2023,160.0
+hyd,Genome Valley,Q3 2023,163.3
+hyd,Genome Valley,Q4 2023,163.5
+hyd,Genome Valley,Q1 2024,160.8
+hyd,Genome Valley,Q2 2024,162.4
+hyd,Genome Valley,Q3 2024,165.5
+hyd,Genome Valley,Q4 2024,168.4
+hyd,Genome Valley,Q1 2025,166.6
+hyd,Genome Valley,Q2 2025,169.0
+hyd,Genome Valley,Q3 2025,173.7
+mum,Andheri,Q1 2014,100.0
+mum,Andheri,Q2 2014,93.7
+mum,Andheri,Q3 2014,95.5
+mum,Andheri,Q4 2014,95.3
+mum,Andheri,Q1 2015,90.9
+mum,Andheri,Q2 2015,95.1
+mum,Andheri,Q3 2015,89.0
+mum,Andheri,Q4 2015,99.5
+mum,Andheri,Q1 2016,95.6
+mum,Andheri,Q2 2016,96.0
+mum,Andheri,Q3 2016,92.3
+mum,Andheri,Q4 2016,94.8
+mum,Andheri,Q1 2017,97.2
+mum,Andheri,Q2 2017,99.7
+mum,Andheri,Q3 2017,94.3
+mum,Andheri,Q4 2017,96.7
+mum,Andheri,Q1 2018,92.3
+mum,Andheri,Q2 2018,91.2
+mum,Andheri,Q3 2018,91.3
+mum,Andheri,Q4 2018,91.5
+mum,Andheri,Q1 2019,91.0
+mum,Andheri,Q2 2019,93.3
+mum,Andheri,Q3 2019,95.1
+mum,Andheri,Q4 2019,95.7
+mum,Andheri,Q1 2020,97.4
+mum,Andheri,Q2 2020,99.1
+mum,Andheri,Q3 2020,99.2
+mum,Andheri,Q4 2020,99.4
+mum,Andheri,Q1 2021,97.7
+mum,Andheri,Q2 2021,96.6
+mum,Andheri,Q3 2021,95.1
+mum,Andheri,Q4 2021,94.8
+mum,Andheri,Q1 2022,93.4
+mum,Andheri,Q2 2022,93.6
+mum,Andheri,Q3 2022,96.0
+mum,Andheri,Q4 2022,99.1
+mum,Andheri,Q1 2023,102.7
+mum,Andheri,Q2 2023,105.0
+mum,Andheri,Q3 2023,108.1
+mum,Andheri,Q4 2023,109.4
+mum,Andheri,Q1 2024,114.2
+mum,Andheri,Q2 2024,115.6
+mum,Andheri,Q3 2024,116.8
+mum,Andheri,Q4 2024,119.1
+mum,Andheri,Q1 2025,122.2
+mum,Andheri,Q2 2025,126.8
+mum,Andheri,Q3 2025,130.4
+mum,BKC,Q1 2014,100.0
+mum,BKC,Q2 2014,103.5
+mum,BKC,Q3 2014,108.6
+mum,BKC,Q4 2014,116.2
+mum,BKC,Q1 2015,97.5
+mum,BKC,Q2 2015,107.5
+mum,BKC,Q3 2015,104.4
+mum,BKC,Q4 2015,111.5
+mum,BKC,Q1 2016,108.6
+mum,BKC,Q2 2016,105.1
+mum,BKC,Q3 2016,106.7
+mum,BKC,Q4 2016,111.0
+mum,BKC,Q1 2017,115.6
+mum,BKC,Q2 2017,115.0
+mum,BKC,Q3 2017,112.1
+mum,BKC,Q4 2017,115.3
+mum,BKC,Q1 2018,104.3
+mum,BKC,Q2 2018,104.4
+mum,BKC,Q3 2018,104.4
+mum,BKC,Q4 2018,104.5
+mum,BKC,Q1 2019,119.1
+mum,BKC,Q2 2019,120.2
+mum,BKC,Q3 2019,120.1
+mum,BKC,Q4 2019,120.4
+mum,BKC,Q1 2020,116.3
+mum,BKC,Q2 2020,111.4
+mum,BKC,Q3 2020,110.2
+mum,BKC,Q4 2020,112.8
+mum,BKC,Q1 2021,113.4
+mum,BKC,Q2 2021,109.3
+mum,BKC,Q3 2021,107.8
+mum,BKC,Q4 2021,108.4
+mum,BKC,Q1 2022,108.7
+mum,BKC,Q2 2022,115.3
+mum,BKC,Q3 2022,117.0
+mum,BKC,Q4 2022,120.1
+mum,BKC,Q1 2023,122.8
+mum,BKC,Q2 2023,124.1
+mum,BKC,Q3 2023,126.7
+mum,BKC,Q4 2023,126.6
+mum,BKC,Q1 2024,128.2
+mum,BKC,Q2 2024,129.3
+mum,BKC,Q3 2024,131.6
+mum,BKC,Q4 2024,132.4
+mum,BKC,Q1 2025,134.1
+mum,BKC,Q2 2025,138.8
+mum,BKC,Q3 2025,139.1
+mum,CBD - Mumbai,Q1 2014,100.0
+mum,CBD - Mumbai,Q2 2014,99.8
+mum,CBD - Mumbai,Q3 2014,108.3
+mum,CBD - Mumbai,Q4 2014,110.6
+mum,CBD - Mumbai,Q1 2015,103.6
+mum,CBD - Mumbai,Q2 2015,107.6
+mum,CBD - Mumbai,Q3 2015,105.2
+mum,CBD - Mumbai,Q4 2015,69.0
+mum,CBD - Mumbai,Q1 2016,106.0
+mum,CBD - Mumbai,Q2 2016,101.8
+mum,CBD - Mumbai,Q3 2016,83.4
+mum,CBD - Mumbai,Q4 2016,103.0
+mum,CBD - Mumbai,Q1 2017,109.5
+mum,CBD - Mumbai,Q2 2017,105.3
+mum,CBD - Mumbai,Q3 2017,115.2
+mum,CBD - Mumbai,Q4 2017,105.0
+mum,CBD - Mumbai,Q1 2018,105.4
+mum,CBD - Mumbai,Q2 2018,105.1
+mum,CBD - Mumbai,Q3 2018,105.0
+mum,CBD - Mumbai,Q4 2018,104.3
+mum,CBD - Mumbai,Q1 2019,102.2
+mum,CBD - Mumbai,Q2 2019,101.2
+mum,CBD - Mumbai,Q3 2019,101.5
+mum,CBD - Mumbai,Q4 2019,103.4
+mum,CBD - Mumbai,Q1 2020,105.3
+mum,CBD - Mumbai,Q2 2020,92.2
+mum,CBD - Mumbai,Q3 2020,85.6
+mum,CBD - Mumbai,Q4 2020,79.5
+mum,CBD - Mumbai,Q1 2021,80.3
+mum,CBD - Mumbai,Q2 2021,102.6
+mum,CBD - Mumbai,Q3 2021,101.4
+mum,CBD - Mumbai,Q4 2021,102.3
+mum,CBD - Mumbai,Q1 2022,98.7
+mum,CBD - Mumbai,Q2 2022,99.5
+mum,CBD - Mumbai,Q3 2022,101.5
+mum,CBD - Mumbai,Q4 2022,105.5
+mum,CBD - Mumbai,Q1 2023,113.3
+mum,CBD - Mumbai,Q2 2023,118.3
+mum,CBD - Mumbai,Q3 2023,121.7
+mum,CBD - Mumbai,Q4 2023,121.9
+mum,CBD - Mumbai,Q1 2024,123.5
+mum,CBD - Mumbai,Q2 2024,129.1
+mum,CBD - Mumbai,Q3 2024,128.5
+mum,CBD - Mumbai,Q4 2024,139.8
+mum,CBD - Mumbai,Q1 2025,145.3
+mum,CBD - Mumbai,Q2 2025,146.2
+mum,CBD - Mumbai,Q3 2025,153.1
+mum,Central Mumbai,Q1 2014,100.0
+mum,Central Mumbai,Q2 2014,100.1
+mum,Central Mumbai,Q3 2014,105.1
+mum,Central Mumbai,Q4 2014,105.9
+mum,Central Mumbai,Q1 2015,105.3
+mum,Central Mumbai,Q2 2015,111.4
+mum,Central Mumbai,Q3 2015,104.4
+mum,Central Mumbai,Q4 2015,112.2
+mum,Central Mumbai,Q1 2016,111.3
+mum,Central Mumbai,Q2 2016,105.7
+mum,Central Mumbai,Q3 2016,115.7
+mum,Central Mumbai,Q4 2016,110.9
+mum,Central Mumbai,Q1 2017,119.0
+mum,Central Mumbai,Q2 2017,116.5
+mum,Central Mumbai,Q3 2017,115.1
+mum,Central Mumbai,Q4 2017,114.9
+mum,Central Mumbai,Q1 2018,117.4
+mum,Central Mumbai,Q2 2018,118.9
+mum,Central Mumbai,Q3 2018,119.8
+mum,Central Mumbai,Q4 2018,119.7
+mum,Central Mumbai,Q1 2019,121.1
+mum,Central Mumbai,Q2 2019,121.8
+mum,Central Mumbai,Q3 2019,122.1
+mum,Central Mumbai,Q4 2019,123.3
+mum,Central Mumbai,Q1 2020,124.9
+mum,Central Mumbai,Q2 2020,124.0
+mum,Central Mumbai,Q3 2020,123.5
+mum,Central Mumbai,Q4 2020,125.3
+mum,Central Mumbai,Q1 2021,125.9
+mum,Central Mumbai,Q2 2021,123.0
+mum,Central Mumbai,Q3 2021,120.5
+mum,Central Mumbai,Q4 2021,119.2
+mum,Central Mumbai,Q1 2022,119.1
+mum,Central Mumbai,Q2 2022,121.6
+mum,Central Mumbai,Q3 2022,125.6
+mum,Central Mumbai,Q4 2022,131.5
+mum,Central Mumbai,Q1 2023,135.9
+mum,Central Mumbai,Q2 2023,139.1
+mum,Central Mumbai,Q3 2023,141.0
+mum,Central Mumbai,Q4 2023,143.2
+mum,Central Mumbai,Q1 2024,148.0
+mum,Central Mumbai,Q2 2024,152.7
+mum,Central Mumbai,Q3 2024,158.5
+mum,Central Mumbai,Q4 2024,161.0
+mum,Central Mumbai,Q1 2025,163.1
+mum,Central Mumbai,Q2 2025,168.5
+mum,Central Mumbai,Q3 2025,176.0
+mum,Central Suburbs,Q1 2014,100.0
+mum,Central Suburbs,Q2 2014,116.7
+mum,Central Suburbs,Q3 2014,127.5
+mum,Central Suburbs,Q4 2014,112.6
+mum,Central Suburbs,Q1 2015,109.2
+mum,Central Suburbs,Q2 2015,102.3
+mum,Central Suburbs,Q3 2015,110.2
+mum,Central Suburbs,Q4 2015,110.3
+mum,Central Suburbs,Q1 2016,104.0
+mum,Central Suburbs,Q2 2016,116.3
+mum,Central Suburbs,Q3 2016,115.3
+mum,Central Suburbs,Q4 2016,116.3
+mum,Central Suburbs,Q1 2017,105.6
+mum,Central Suburbs,Q2 2017,101.3
+mum,Central Suburbs,Q3 2017,107.8
+mum,Central Suburbs,Q4 2017,105.4
+mum,Central Suburbs,Q1 2018,100.2
+mum,Central Suburbs,Q2 2018,102.4
+mum,Central Suburbs,Q3 2018,104.6
+mum,Central Suburbs,Q4 2018,106.0
+mum,Central Suburbs,Q1 2019,118.6
+mum,Central Suburbs,Q2 2019,121.3
+mum,Central Suburbs,Q3 2019,121.8
+mum,Central Suburbs,Q4 2019,121.3
+mum,Central Suburbs,Q1 2020,120.7
+mum,Central Suburbs,Q2 2020,121.2
+mum,Central Suburbs,Q3 2020,123.1
+mum,Central Suburbs,Q4 2020,122.8
+mum,Central Suburbs,Q1 2021,121.3
+mum,Central Suburbs,Q2 2021,121.0
+mum,Central Suburbs,Q3 2021,115.8
+mum,Central Suburbs,Q4 2021,117.2
+mum,Central Suburbs,Q1 2022,118.7
+mum,Central Suburbs,Q2 2022,117.7
+mum,Central Suburbs,Q3 2022,122.1
+mum,Central Suburbs,Q4 2022,122.6
+mum,Central Suburbs,Q1 2023,124.5
+mum,Central Suburbs,Q2 2023,133.1
+mum,Central Suburbs,Q3 2023,137.3
+mum,Central Suburbs,Q4 2023,140.9
+mum,Central Suburbs,Q1 2024,143.4
+mum,Central Suburbs,Q2 2024,140.9
+mum,Central Suburbs,Q3 2024,138.8
+mum,Central Suburbs,Q4 2024,141.3
+mum,Central Suburbs,Q1 2025,142.7
+mum,Central Suburbs,Q2 2025,148.7
+mum,Central Suburbs,Q3 2025,155.4
+mum,Eastern Suburbs,Q1 2014,100.0
+mum,Eastern Suburbs,Q2 2014,97.4
+mum,Eastern Suburbs,Q3 2014,99.3
+mum,Eastern Suburbs,Q4 2014,97.2
+mum,Eastern Suburbs,Q1 2015,92.2
+mum,Eastern Suburbs,Q2 2015,103.3
+mum,Eastern Suburbs,Q3 2015,100.5
+mum,Eastern Suburbs,Q4 2015,101.6
+mum,Eastern Suburbs,Q1 2016,107.6
+mum,Eastern Suburbs,Q2 2016,99.1
+mum,Eastern Suburbs,Q3 2016,102.0
+mum,Eastern Suburbs,Q4 2016,99.0
+mum,Eastern Suburbs,Q1 2017,101.1
+mum,Eastern Suburbs,Q2 2017,105.9
+mum,Eastern Suburbs,Q3 2017,107.5
+mum,Eastern Suburbs,Q4 2017,94.2
+mum,Eastern Suburbs,Q1 2018,105.6
+mum,Eastern Suburbs,Q2 2018,104.9
+mum,Eastern Suburbs,Q3 2018,106.6
+mum,Eastern Suburbs,Q4 2018,106.5
+mum,Eastern Suburbs,Q1 2019,107.2
+mum,Eastern Suburbs,Q2 2019,109.1
+mum,Eastern Suburbs,Q3 2019,108.5
+mum,Eastern Suburbs,Q4 2019,109.0
+mum,Eastern Suburbs,Q1 2020,110.7
+mum,Eastern Suburbs,Q2 2020,112.2
+mum,Eastern Suburbs,Q3 2020,113.4
+mum,Eastern Suburbs,Q4 2020,115.6
+mum,Eastern Suburbs,Q1 2021,114.4
+mum,Eastern Suburbs,Q2 2021,108.4
+mum,Eastern Suburbs,Q3 2021,108.0
+mum,Eastern Suburbs,Q4 2021,110.1
+mum,Eastern Suburbs,Q1 2022,107.1
+mum,Eastern Suburbs,Q2 2022,108.0
+mum,Eastern Suburbs,Q3 2022,110.9
+mum,Eastern Suburbs,Q4 2022,110.6
+mum,Eastern Suburbs,Q1 2023,112.0
+mum,Eastern Suburbs,Q2 2023,112.5
+mum,Eastern Suburbs,Q3 2023,113.1
+mum,Eastern Suburbs,Q4 2023,114.8
+mum,Eastern Suburbs,Q1 2024,117.7
+mum,Eastern Suburbs,Q2 2024,120.7
+mum,Eastern Suburbs,Q3 2024,121.6
+mum,Eastern Suburbs,Q4 2024,123.6
+mum,Eastern Suburbs,Q1 2025,128.1
+mum,Eastern Suburbs,Q2 2025,133.5
+mum,Eastern Suburbs,Q3 2025,142.2
+mum,Western Suburbs,Q1 2014,100.0
+mum,Western Suburbs,Q2 2014,105.4
+mum,Western Suburbs,Q3 2014,106.4
+mum,Western Suburbs,Q4 2014,99.4
+mum,Western Suburbs,Q1 2015,100.1
+mum,Western Suburbs,Q2 2015,109.0
+mum,Western Suburbs,Q3 2015,96.8
+mum,Western Suburbs,Q4 2015,104.5
+mum,Western Suburbs,Q1 2016,105.0
+mum,Western Suburbs,Q2 2016,111.3
+mum,Western Suburbs,Q3 2016,109.8
+mum,Western Suburbs,Q4 2016,104.3
+mum,Western Suburbs,Q1 2017,107.6
+mum,Western Suburbs,Q2 2017,102.3
+mum,Western Suburbs,Q3 2017,103.7
+mum,Western Suburbs,Q4 2017,106.9
+mum,Western Suburbs,Q1 2018,98.9
+mum,Western Suburbs,Q2 2018,100.8
+mum,Western Suburbs,Q3 2018,101.4
+mum,Western Suburbs,Q4 2018,102.0
+mum,Western Suburbs,Q1 2019,106.4
+mum,Western Suburbs,Q2 2019,106.9
+mum,Western Suburbs,Q3 2019,109.7
+mum,Western Suburbs,Q4 2019,109.4
+mum,Western Suburbs,Q1 2020,112.0
+mum,Western Suburbs,Q2 2020,113.0
+mum,Western Suburbs,Q3 2020,115.6
+mum,Western Suburbs,Q4 2020,119.2
+mum,Western Suburbs,Q1 2021,118.4
+mum,Western Suburbs,Q2 2021,117.3
+mum,Western Suburbs,Q3 2021,110.6
+mum,Western Suburbs,Q4 2021,107.2
+mum,Western Suburbs,Q1 2022,106.4
+mum,Western Suburbs,Q2 2022,106.4
+mum,Western Suburbs,Q3 2022,110.8
+mum,Western Suburbs,Q4 2022,112.0
+mum,Western Suburbs,Q1 2023,113.0
+mum,Western Suburbs,Q2 2023,113.8
+mum,Western Suburbs,Q3 2023,113.6
+mum,Western Suburbs,Q4 2023,115.4
+mum,Western Suburbs,Q1 2024,119.3
+mum,Western Suburbs,Q2 2024,122.4
+mum,Western Suburbs,Q3 2024,124.7
+mum,Western Suburbs,Q4 2024,129.9
+mum,Western Suburbs,Q1 2025,134.1
+mum,Western Suburbs,Q2 2025,140.3
+mum,Western Suburbs,Q3 2025,150.4
+navm,Navi Mumbai - North,Q1 2014,100.0
+navm,Navi Mumbai - North,Q2 2014,105.0
+navm,Navi Mumbai - North,Q3 2014,111.9
+navm,Navi Mumbai - North,Q4 2014,106.7
+navm,Navi Mumbai - North,Q1 2015,109.1
+navm,Navi Mumbai - North,Q2 2015,104.4
+navm,Navi Mumbai - North,Q3 2015,104.1
+navm,Navi Mumbai - North,Q4 2015,103.4
+navm,Navi Mumbai - North,Q1 2016,91.3
+navm,Navi Mumbai - North,Q2 2016,114.3
+navm,Navi Mumbai - North,Q3 2016,105.9
+navm,Navi Mumbai - North,Q4 2016,106.1
+navm,Navi Mumbai - North,Q1 2017,125.6
+navm,Navi Mumbai - North,Q2 2017,120.4
+navm,Navi Mumbai - North,Q3 2017,119.9
+navm,Navi Mumbai - North,Q4 2017,125.8
+navm,Navi Mumbai - North,Q1 2018,126.6
+navm,Navi Mumbai - North,Q2 2018,127.3
+navm,Navi Mumbai - North,Q3 2018,127.1
+navm,Navi Mumbai - North,Q4 2018,125.0
+navm,Navi Mumbai - North,Q1 2019,120.0
+navm,Navi Mumbai - North,Q2 2019,114.7
+navm,Navi Mumbai - North,Q3 2019,110.4
+navm,Navi Mumbai - North,Q4 2019,109.6
+navm,Navi Mumbai - North,Q1 2020,112.8
+navm,Navi Mumbai - North,Q2 2020,112.5
+navm,Navi Mumbai - North,Q3 2020,112.2
+navm,Navi Mumbai - North,Q4 2020,112.9
+navm,Navi Mumbai - North,Q1 2021,111.0
+navm,Navi Mumbai - North,Q2 2021,104.6
+navm,Navi Mumbai - North,Q3 2021,102.4
+navm,Navi Mumbai - North,Q4 2021,98.0
+navm,Navi Mumbai - North,Q1 2022,96.9
+navm,Navi Mumbai - North,Q2 2022,101.7
+navm,Navi Mumbai - North,Q3 2022,103.9
+navm,Navi Mumbai - North,Q4 2022,111.9
+navm,Navi Mumbai - North,Q1 2023,115.3
+navm,Navi Mumbai - North,Q2 2023,120.5
+navm,Navi Mumbai - North,Q3 2023,123.3
+navm,Navi Mumbai - North,Q4 2023,127.5
+navm,Navi Mumbai - North,Q1 2024,136.2
+navm,Navi Mumbai - North,Q2 2024,135.0
+navm,Navi Mumbai - North,Q3 2024,140.2
+navm,Navi Mumbai - North,Q4 2024,144.5
+navm,Navi Mumbai - North,Q1 2025,144.1
+navm,Navi Mumbai - North,Q2 2025,146.7
+navm,Navi Mumbai - North,Q3 2025,145.6
+navm,Navi Mumbai - South,Q1 2014,100.0
+navm,Navi Mumbai - South,Q2 2014,117.0
+navm,Navi Mumbai - South,Q3 2014,109.9
+navm,Navi Mumbai - South,Q4 2014,117.2
+navm,Navi Mumbai - South,Q1 2015,110.4
+navm,Navi Mumbai - South,Q2 2015,115.4
+navm,Navi Mumbai - South,Q3 2015,110.2
+navm,Navi Mumbai - South,Q4 2015,103.7
+navm,Navi Mumbai - South,Q1 2016,98.7
+navm,Navi Mumbai - South,Q2 2016,113.6
+navm,Navi Mumbai - South,Q3 2016,106.0
+navm,Navi Mumbai - South,Q4 2016,112.9
+navm,Navi Mumbai - South,Q1 2017,152.8
+navm,Navi Mumbai - South,Q2 2017,132.5
+navm,Navi Mumbai - South,Q3 2017,124.0
+navm,Navi Mumbai - South,Q4 2017,135.1
+navm,Navi Mumbai - South,Q1 2018,140.5
+navm,Navi Mumbai - South,Q2 2018,139.0
+navm,Navi Mumbai - South,Q3 2018,139.8
+navm,Navi Mumbai - South,Q4 2018,136.2
+navm,Navi Mumbai - South,Q1 2019,131.3
+navm,Navi Mumbai - South,Q2 2019,129.3
+navm,Navi Mumbai - South,Q3 2019,121.0
+navm,Navi Mumbai - South,Q4 2019,120.9
+navm,Navi Mumbai - South,Q1 2020,123.2
+navm,Navi Mumbai - South,Q2 2020,120.4
+navm,Navi Mumbai - South,Q3 2020,121.5
+navm,Navi Mumbai - South,Q4 2020,121.8
+navm,Navi Mumbai - South,Q1 2021,117.4
+navm,Navi Mumbai - South,Q2 2021,111.6
+navm,Navi Mumbai - South,Q3 2021,108.8
+navm,Navi Mumbai - South,Q4 2021,105.1
+navm,Navi Mumbai - South,Q1 2022,103.4
+navm,Navi Mumbai - South,Q2 2022,108.2
+navm,Navi Mumbai - South,Q3 2022,107.9
+navm,Navi Mumbai - South,Q4 2022,112.2
+navm,Navi Mumbai - South,Q1 2023,115.9
+navm,Navi Mumbai - South,Q2 2023,115.5
+navm,Navi Mumbai - South,Q3 2023,118.2
+navm,Navi Mumbai - South,Q4 2023,120.8
+navm,Navi Mumbai - South,Q1 2024,128.4
+navm,Navi Mumbai - South,Q2 2024,129.0
+navm,Navi Mumbai - South,Q3 2024,134.4
+navm,Navi Mumbai - South,Q4 2024,139.3
+navm,Navi Mumbai - South,Q1 2025,136.6
+navm,Navi Mumbai - South,Q2 2025,134.1
+navm,Navi Mumbai - South,Q3 2025,130.7
+nda,Central Noida,Q1 2014,100.0
+nda,Central Noida,Q2 2014,110.8
+nda,Central Noida,Q3 2014,100.0
+nda,Central Noida,Q4 2014,91.9
+nda,Central Noida,Q1 2015,104.1
+nda,Central Noida,Q2 2015,95.8
+nda,Central Noida,Q3 2015,109.3
+nda,Central Noida,Q4 2015,91.7
+nda,Central Noida,Q1 2016,99.9
+nda,Central Noida,Q2 2016,107.8
+nda,Central Noida,Q3 2016,104.9
+nda,Central Noida,Q4 2016,102.4
+nda,Central Noida,Q1 2017,113.3
+nda,Central Noida,Q2 2017,122.6
+nda,Central Noida,Q3 2017,100.2
+nda,Central Noida,Q4 2017,114.3
+nda,Central Noida,Q1 2018,112.9
+nda,Central Noida,Q2 2018,115.1
+nda,Central Noida,Q3 2018,115.6
+nda,Central Noida,Q4 2018,116.4
+nda,Central Noida,Q1 2019,122.4
+nda,Central Noida,Q2 2019,121.3
+nda,Central Noida,Q3 2019,126.7
+nda,Central Noida,Q4 2019,130.1
+nda,Central Noida,Q1 2020,132.4
+nda,Central Noida,Q2 2020,110.8
+nda,Central Noida,Q3 2020,107.8
+nda,Central Noida,Q4 2020,100.4
+nda,Central Noida,Q1 2021,99.4
+nda,Central Noida,Q2 2021,113.1
+nda,Central Noida,Q3 2021,108.7
+nda,Central Noida,Q4 2021,113.2
+nda,Central Noida,Q1 2022,112.9
+nda,Central Noida,Q2 2022,117.0
+nda,Central Noida,Q3 2022,118.7
+nda,Central Noida,Q4 2022,113.0
+nda,Central Noida,Q1 2023,110.9
+nda,Central Noida,Q2 2023,110.3
+nda,Central Noida,Q3 2023,111.6
+nda,Central Noida,Q4 2023,123.9
+nda,Central Noida,Q1 2024,127.9
+nda,Central Noida,Q2 2024,131.0
+nda,Central Noida,Q3 2024,134.4
+nda,Central Noida,Q4 2024,132.8
+nda,Central Noida,Q1 2025,135.5
+nda,Central Noida,Q2 2025,126.5
+nda,Central Noida,Q3 2025,118.6
+nda,Suburban Noida,Q1 2014,100.0
+nda,Suburban Noida,Q2 2014,92.7
+nda,Suburban Noida,Q3 2014,94.6
+nda,Suburban Noida,Q4 2014,93.0
+nda,Suburban Noida,Q1 2015,91.9
+nda,Suburban Noida,Q2 2015,90.2
+nda,Suburban Noida,Q3 2015,93.6
+nda,Suburban Noida,Q4 2015,93.0
+nda,Suburban Noida,Q1 2016,92.7
+nda,Suburban Noida,Q2 2016,93.2
+nda,Suburban Noida,Q3 2016,104.4
+nda,Suburban Noida,Q4 2016,90.2
+nda,Suburban Noida,Q1 2017,104.0
+nda,Suburban Noida,Q2 2017,101.1
+nda,Suburban Noida,Q3 2017,95.1
+nda,Suburban Noida,Q4 2017,108.8
+nda,Suburban Noida,Q1 2018,112.5
+nda,Suburban Noida,Q2 2018,112.5
+nda,Suburban Noida,Q3 2018,112.2
+nda,Suburban Noida,Q4 2018,112.2
+nda,Suburban Noida,Q1 2019,108.3
+nda,Suburban Noida,Q2 2019,106.4
+nda,Suburban Noida,Q3 2019,107.7
+nda,Suburban Noida,Q4 2019,105.9
+nda,Suburban Noida,Q1 2020,107.2
+nda,Suburban Noida,Q2 2020,102.3
+nda,Suburban Noida,Q3 2020,99.1
+nda,Suburban Noida,Q4 2020,95.1
+nda,Suburban Noida,Q1 2021,94.7
+nda,Suburban Noida,Q2 2021,95.4
+nda,Suburban Noida,Q3 2021,94.8
+nda,Suburban Noida,Q4 2021,96.2
+nda,Suburban Noida,Q1 2022,95.0
+nda,Suburban Noida,Q2 2022,96.3
+nda,Suburban Noida,Q3 2022,97.1
+nda,Suburban Noida,Q4 2022,98.2
+nda,Suburban Noida,Q1 2023,99.7
+nda,Suburban Noida,Q2 2023,102.6
+nda,Suburban Noida,Q3 2023,102.9
+nda,Suburban Noida,Q4 2023,105.8
+nda,Suburban Noida,Q1 2024,106.3
+nda,Suburban Noida,Q2 2024,108.5
+nda,Suburban Noida,Q3 2024,111.7
+nda,Suburban Noida,Q4 2024,115.2
+nda,Suburban Noida,Q1 2025,119.3
+nda,Suburban Noida,Q2 2025,114.0
+nda,Suburban Noida,Q3 2025,115.0
+nda,Greater Noida Expressway,Q1 2014,100.0
+nda,Greater Noida Expressway,Q2 2014,84.8
+nda,Greater Noida Expressway,Q3 2014,97.0
+nda,Greater Noida Expressway,Q4 2014,88.7
+nda,Greater Noida Expressway,Q1 2015,88.8
+nda,Greater Noida Expressway,Q2 2015,90.5
+nda,Greater Noida Expressway,Q3 2015,90.8
+nda,Greater Noida Expressway,Q4 2015,90.4
+nda,Greater Noida Expressway,Q1 2016,92.3
+nda,Greater Noida Expressway,Q2 2016,90.2
+nda,Greater Noida Expressway,Q3 2016,102.8
+nda,Greater Noida Expressway,Q4 2016,90.2
+nda,Greater Noida Expressway,Q1 2017,99.1
+nda,Greater Noida Expressway,Q2 2017,96.2
+nda,Greater Noida Expressway,Q3 2017,97.7
+nda,Greater Noida Expressway,Q4 2017,106.0
+nda,Greater Noida Expressway,Q1 2018,109.9
+nda,Greater Noida Expressway,Q2 2018,110.1
+nda,Greater Noida Expressway,Q3 2018,109.8
+nda,Greater Noida Expressway,Q4 2018,109.6
+nda,Greater Noida Expressway,Q1 2019,106.5
+nda,Greater Noida Expressway,Q2 2019,101.5
+nda,Greater Noida Expressway,Q3 2019,101.4
+nda,Greater Noida Expressway,Q4 2019,98.9
+nda,Greater Noida Expressway,Q1 2020,100.2
+nda,Greater Noida Expressway,Q2 2020,101.1
+nda,Greater Noida Expressway,Q3 2020,98.3
+nda,Greater Noida Expressway,Q4 2020,95.4
+nda,Greater Noida Expressway,Q1 2021,92.8
+nda,Greater Noida Expressway,Q2 2021,91.2
+nda,Greater Noida Expressway,Q3 2021,89.3
+nda,Greater Noida Expressway,Q4 2021,89.6
+nda,Greater Noida Expressway,Q1 2022,88.6
+nda,Greater Noida Expressway,Q2 2022,89.0
+nda,Greater Noida Expressway,Q3 2022,90.5
+nda,Greater Noida Expressway,Q4 2022,93.3
+nda,Greater Noida Expressway,Q1 2023,94.7
+nda,Greater Noida Expressway,Q2 2023,96.7
+nda,Greater Noida Expressway,Q3 2023,99.8
+nda,Greater Noida Expressway,Q4 2023,100.8
+nda,Greater Noida Expressway,Q1 2024,101.9
+nda,Greater Noida Expressway,Q2 2024,104.1
+nda,Greater Noida Expressway,Q3 2024,108.5
+nda,Greater Noida Expressway,Q4 2024,113.0
+nda,Greater Noida Expressway,Q1 2025,117.2
+nda,Greater Noida Expressway,Q2 2025,114.5
+nda,Greater Noida Expressway,Q3 2025,115.5
+pnq,CBD - Pune,Q1 2014,100.0
+pnq,CBD - Pune,Q2 2014,95.5
+pnq,CBD - Pune,Q3 2014,110.3
+pnq,CBD - Pune,Q4 2014,94.9
+pnq,CBD - Pune,Q1 2015,99.2
+pnq,CBD - Pune,Q2 2015,116.1
+pnq,CBD - Pune,Q3 2015,105.9
+pnq,CBD - Pune,Q4 2015,124.8
+pnq,CBD - Pune,Q1 2016,112.6
+pnq,CBD - Pune,Q2 2016,115.4
+pnq,CBD - Pune,Q3 2016,114.2
+pnq,CBD - Pune,Q4 2016,124.5
+pnq,CBD - Pune,Q1 2017,131.2
+pnq,CBD - Pune,Q2 2017,138.9
+pnq,CBD - Pune,Q3 2017,127.3
+pnq,CBD - Pune,Q4 2017,124.5
+pnq,CBD - Pune,Q1 2018,126.6
+pnq,CBD - Pune,Q2 2018,134.1
+pnq,CBD - Pune,Q3 2018,138.4
+pnq,CBD - Pune,Q4 2018,140.1
+pnq,CBD - Pune,Q1 2019,150.3
+pnq,CBD - Pune,Q2 2019,158.6
+pnq,CBD - Pune,Q3 2019,160.0
+pnq,CBD - Pune,Q4 2019,165.5
+pnq,CBD - Pune,Q1 2020,174.3
+pnq,CBD - Pune,Q2 2020,165.6
+pnq,CBD - Pune,Q3 2020,162.9
+pnq,CBD - Pune,Q4 2020,155.5
+pnq,CBD - Pune,Q1 2021,151.0
+pnq,CBD - Pune,Q2 2021,148.7
+pnq,CBD - Pune,Q3 2021,148.8
+pnq,CBD - Pune,Q4 2021,150.0
+pnq,CBD - Pune,Q1 2022,152.3
+pnq,CBD - Pune,Q2 2022,158.5
+pnq,CBD - Pune,Q3 2022,164.3
+pnq,CBD - Pune,Q4 2022,171.3
+pnq,CBD - Pune,Q1 2023,174.1
+pnq,CBD - Pune,Q2 2023,181.1
+pnq,CBD - Pune,Q3 2023,185.8
+pnq,CBD - Pune,Q4 2023,188.6
+pnq,CBD - Pune,Q1 2024,193.1
+pnq,CBD - Pune,Q2 2024,189.0
+pnq,CBD - Pune,Q3 2024,188.3
+pnq,CBD - Pune,Q4 2024,195.5
+pnq,CBD - Pune,Q1 2025,192.2
+pnq,CBD - Pune,Q2 2025,197.6
+pnq,CBD - Pune,Q3 2025,198.2
+pnq,Hinjewadi,Q1 2014,100.0
+pnq,Hinjewadi,Q2 2014,94.7
+pnq,Hinjewadi,Q3 2014,107.8
+pnq,Hinjewadi,Q4 2014,102.0
+pnq,Hinjewadi,Q1 2015,97.6
+pnq,Hinjewadi,Q2 2015,101.8
+pnq,Hinjewadi,Q3 2015,112.1
+pnq,Hinjewadi,Q4 2015,107.1
+pnq,Hinjewadi,Q1 2016,116.4
+pnq,Hinjewadi,Q2 2016,118.0
+pnq,Hinjewadi,Q3 2016,116.4
+pnq,Hinjewadi,Q4 2016,126.3
+pnq,Hinjewadi,Q1 2017,133.0
+pnq,Hinjewadi,Q2 2017,133.6
+pnq,Hinjewadi,Q3 2017,131.2
+pnq,Hinjewadi,Q4 2017,136.8
+pnq,Hinjewadi,Q1 2018,131.5
+pnq,Hinjewadi,Q2 2018,134.5
+pnq,Hinjewadi,Q3 2018,134.0
+pnq,Hinjewadi,Q4 2018,134.2
+pnq,Hinjewadi,Q1 2019,135.5
+pnq,Hinjewadi,Q2 2019,136.6
+pnq,Hinjewadi,Q3 2019,139.0
+pnq,Hinjewadi,Q4 2019,142.0
+pnq,Hinjewadi,Q1 2020,145.6
+pnq,Hinjewadi,Q2 2020,143.6
+pnq,Hinjewadi,Q3 2020,146.0
+pnq,Hinjewadi,Q4 2020,144.3
+pnq,Hinjewadi,Q1 2021,147.5
+pnq,Hinjewadi,Q2 2021,147.1
+pnq,Hinjewadi,Q3 2021,141.2
+pnq,Hinjewadi,Q4 2021,142.4
+pnq,Hinjewadi,Q1 2022,140.1
+pnq,Hinjewadi,Q2 2022,142.6
+pnq,Hinjewadi,Q3 2022,150.9
+pnq,Hinjewadi,Q4 2022,157.4
+pnq,Hinjewadi,Q1 2023,166.0
+pnq,Hinjewadi,Q2 2023,177.0
+pnq,Hinjewadi,Q3 2023,177.6
+pnq,Hinjewadi,Q4 2023,174.4
+pnq,Hinjewadi,Q1 2024,167.4
+pnq,Hinjewadi,Q2 2024,163.0
+pnq,Hinjewadi,Q3 2024,160.9
+pnq,Hinjewadi,Q4 2024,171.0
+pnq,Hinjewadi,Q1 2025,182.1
+pnq,Hinjewadi,Q2 2025,190.6
+pnq,Hinjewadi,Q3 2025,199.1
+pnq,North East Pune,Q1 2014,100.0
+pnq,North East Pune,Q2 2014,104.6
+pnq,North East Pune,Q3 2014,129.3
+pnq,North East Pune,Q4 2014,108.6
+pnq,North East Pune,Q1 2015,107.7
+pnq,North East Pune,Q2 2015,105.7
+pnq,North East Pune,Q3 2015,111.5
+pnq,North East Pune,Q4 2015,123.6
+pnq,North East Pune,Q1 2016,122.7
+pnq,North East Pune,Q2 2016,127.3
+pnq,North East Pune,Q3 2016,122.3
+pnq,North East Pune,Q4 2016,129.9
+pnq,North East Pune,Q1 2017,136.2
+pnq,North East Pune,Q2 2017,137.2
+pnq,North East Pune,Q3 2017,133.4
+pnq,North East Pune,Q4 2017,139.9
+pnq,North East Pune,Q1 2018,135.1
+pnq,North East Pune,Q2 2018,136.7
+pnq,North East Pune,Q3 2018,137.6
+pnq,North East Pune,Q4 2018,138.6
+pnq,North East Pune,Q1 2019,149.4
+pnq,North East Pune,Q2 2019,157.9
+pnq,North East Pune,Q3 2019,163.6
+pnq,North East Pune,Q4 2019,167.3
+pnq,North East Pune,Q1 2020,173.6
+pnq,North East Pune,Q2 2020,164.2
+pnq,North East Pune,Q3 2020,155.1
+pnq,North East Pune,Q4 2020,147.4
+pnq,North East Pune,Q1 2021,145.8
+pnq,North East Pune,Q2 2021,143.1
+pnq,North East Pune,Q3 2021,142.9
+pnq,North East Pune,Q4 2021,147.5
+pnq,North East Pune,Q1 2022,147.4
+pnq,North East Pune,Q2 2022,151.6
+pnq,North East Pune,Q3 2022,156.7
+pnq,North East Pune,Q4 2022,156.7
+pnq,North East Pune,Q1 2023,163.1
+pnq,North East Pune,Q2 2023,164.7
+pnq,North East Pune,Q3 2023,168.4
+pnq,North East Pune,Q4 2023,170.1
+pnq,North East Pune,Q1 2024,168.4
+pnq,North East Pune,Q2 2024,169.8
+pnq,North East Pune,Q3 2024,169.0
+pnq,North East Pune,Q4 2024,175.4
+pnq,North East Pune,Q1 2025,176.5
+pnq,North East Pune,Q2 2025,172.6
+pnq,North East Pune,Q3 2025,168.5
+pnq,North Pune,Q1 2014,100.0
+pnq,North Pune,Q2 2014,100.7
+pnq,North Pune,Q3 2014,105.5
+pnq,North Pune,Q4 2014,105.0
+pnq,North Pune,Q1 2015,105.0
+pnq,North Pune,Q2 2015,111.3
+pnq,North Pune,Q3 2015,111.2
+pnq,North Pune,Q4 2015,121.7
+pnq,North Pune,Q1 2016,117.8
+pnq,North Pune,Q2 2016,122.8
+pnq,North Pune,Q3 2016,125.0
+pnq,North Pune,Q4 2016,131.7
+pnq,North Pune,Q1 2017,137.1
+pnq,North Pune,Q2 2017,137.7
+pnq,North Pune,Q3 2017,134.9
+pnq,North Pune,Q4 2017,138.3
+pnq,North Pune,Q1 2018,130.3
+pnq,North Pune,Q2 2018,135.0
+pnq,North Pune,Q3 2018,136.1
+pnq,North Pune,Q4 2018,137.0
+pnq,North Pune,Q1 2019,143.9
+pnq,North Pune,Q2 2019,148.5
+pnq,North Pune,Q3 2019,152.2
+pnq,North Pune,Q4 2019,153.9
+pnq,North Pune,Q1 2020,154.8
+pnq,North Pune,Q2 2020,152.7
+pnq,North Pune,Q3 2020,148.1
+pnq,North Pune,Q4 2020,147.1
+pnq,North Pune,Q1 2021,141.8
+pnq,North Pune,Q2 2021,142.8
+pnq,North Pune,Q3 2021,144.9
+pnq,North Pune,Q4 2021,145.7
+pnq,North Pune,Q1 2022,144.4
+pnq,North Pune,Q2 2022,148.2
+pnq,North Pune,Q3 2022,152.0
+pnq,North Pune,Q4 2022,158.2
+pnq,North Pune,Q1 2023,164.0
+pnq,North Pune,Q2 2023,167.6
+pnq,North Pune,Q3 2023,169.7
+pnq,North Pune,Q4 2023,167.2
+pnq,North Pune,Q1 2024,164.8
+pnq,North Pune,Q2 2024,162.4
+pnq,North Pune,Q3 2024,162.5
+pnq,North Pune,Q4 2024,167.4
+pnq,North Pune,Q1 2025,172.0
+pnq,North Pune,Q2 2025,173.7
+pnq,North Pune,Q3 2025,174.9
+pnq,SBD - Pune,Q1 2014,100.0
+pnq,SBD - Pune,Q2 2014,99.2
+pnq,SBD - Pune,Q3 2014,105.5
+pnq,SBD - Pune,Q4 2014,105.1
+pnq,SBD - Pune,Q1 2015,104.8
+pnq,SBD - Pune,Q2 2015,108.3
+pnq,SBD - Pune,Q3 2015,117.8
+pnq,SBD - Pune,Q4 2015,119.7
+pnq,SBD - Pune,Q1 2016,117.4
+pnq,SBD - Pune,Q2 2016,121.7
+pnq,SBD - Pune,Q3 2016,122.6
+pnq,SBD - Pune,Q4 2016,126.4
+pnq,SBD - Pune,Q1 2017,133.8
+pnq,SBD - Pune,Q2 2017,133.3
+pnq,SBD - Pune,Q3 2017,134.4
+pnq,SBD - Pune,Q4 2017,136.0
+pnq,SBD - Pune,Q1 2018,133.1
+pnq,SBD - Pune,Q2 2018,136.0
+pnq,SBD - Pune,Q3 2018,137.1
+pnq,SBD - Pune,Q4 2018,138.7
+pnq,SBD - Pune,Q1 2019,144.1
+pnq,SBD - Pune,Q2 2019,148.8
+pnq,SBD - Pune,Q3 2019,153.9
+pnq,SBD - Pune,Q4 2019,156.4
+pnq,SBD - Pune,Q1 2020,159.6
+pnq,SBD - Pune,Q2 2020,153.9
+pnq,SBD - Pune,Q3 2020,149.9
+pnq,SBD - Pune,Q4 2020,146.1
+pnq,SBD - Pune,Q1 2021,142.6
+pnq,SBD - Pune,Q2 2021,142.3
+pnq,SBD - Pune,Q3 2021,142.7
+pnq,SBD - Pune,Q4 2021,144.8
+pnq,SBD - Pune,Q1 2022,144.8
+pnq,SBD - Pune,Q2 2022,149.0
+pnq,SBD - Pune,Q3 2022,150.3
+pnq,SBD - Pune,Q4 2022,152.9
+pnq,SBD - Pune,Q1 2023,157.4
+pnq,SBD - Pune,Q2 2023,161.9
+pnq,SBD - Pune,Q3 2023,167.9
+pnq,SBD - Pune,Q4 2023,171.5
+pnq,SBD - Pune,Q1 2024,172.1
+pnq,SBD - Pune,Q2 2024,172.7
+pnq,SBD - Pune,Q3 2024,174.1
+pnq,SBD - Pune,Q4 2024,181.8
+pnq,SBD - Pune,Q1 2025,186.1
+pnq,SBD - Pune,Q2 2025,193.1
+pnq,SBD - Pune,Q3 2025,198.9
+pnq,South East Pune,Q1 2014,100.0
+pnq,South East Pune,Q2 2014,77.3
+pnq,South East Pune,Q3 2014,107.8
+pnq,South East Pune,Q4 2014,103.0
+pnq,South East Pune,Q1 2015,107.7
+pnq,South East Pune,Q2 2015,107.3
+pnq,South East Pune,Q3 2015,114.0
+pnq,South East Pune,Q4 2015,122.9
+pnq,South East Pune,Q1 2016,118.9
+pnq,South East Pune,Q2 2016,93.2
+pnq,South East Pune,Q3 2016,121.9
+pnq,South East Pune,Q4 2016,96.3
+pnq,South East Pune,Q1 2017,139.7
+pnq,South East Pune,Q2 2017,133.9
+pnq,South East Pune,Q3 2017,108.3
+pnq,South East Pune,Q4 2017,139.6
+pnq,South East Pune,Q1 2018,139.1
+pnq,South East Pune,Q2 2018,139.3
+pnq,South East Pune,Q3 2018,139.0
+pnq,South East Pune,Q4 2018,138.8
+pnq,South East Pune,Q1 2019,135.6
+pnq,South East Pune,Q2 2019,131.9
+pnq,South East Pune,Q3 2019,138.5
+pnq,South East Pune,Q4 2019,146.4
+pnq,South East Pune,Q1 2020,145.3
+pnq,South East Pune,Q2 2020,141.4
+pnq,South East Pune,Q3 2020,139.8
+pnq,South East Pune,Q4 2020,138.1
+pnq,South East Pune,Q1 2021,136.7
+pnq,South East Pune,Q2 2021,138.2
+pnq,South East Pune,Q3 2021,140.4
+pnq,South East Pune,Q4 2021,141.4
+pnq,South East Pune,Q1 2022,142.7
+pnq,South East Pune,Q2 2022,147.3
+pnq,South East Pune,Q3 2022,148.2
+pnq,South East Pune,Q4 2022,154.1
+pnq,South East Pune,Q1 2023,156.8
+pnq,South East Pune,Q2 2023,160.4
+pnq,South East Pune,Q3 2023,168.4
+pnq,South East Pune,Q4 2023,170.9
+pnq,South East Pune,Q1 2024,172.1
+pnq,South East Pune,Q2 2024,171.3
+pnq,South East Pune,Q3 2024,169.5
+pnq,South East Pune,Q4 2024,175.7
+pnq,South East Pune,Q1 2025,177.8
+pnq,South East Pune,Q2 2025,178.2
+pnq,South East Pune,Q3 2025,178.6
+pnq,South West Pune,Q1 2014,100.0
+pnq,South West Pune,Q2 2014,100.7
+pnq,South West Pune,Q3 2014,104.9
+pnq,South West Pune,Q4 2014,105.6
+pnq,South West Pune,Q1 2015,103.7
+pnq,South West Pune,Q2 2015,108.4
+pnq,South West Pune,Q3 2015,111.4
+pnq,South West Pune,Q4 2015,115.6
+pnq,South West Pune,Q1 2016,117.4
+pnq,South West Pune,Q2 2016,118.8
+pnq,South West Pune,Q3 2016,119.8
+pnq,South West Pune,Q4 2016,125.4
+pnq,South West Pune,Q1 2017,130.0
+pnq,South West Pune,Q2 2017,133.9
+pnq,South West Pune,Q3 2017,131.1
+pnq,South West Pune,Q4 2017,137.4
+pnq,South West Pune,Q1 2018,136.5
+pnq,South West Pune,Q2 2018,135.9
+pnq,South West Pune,Q3 2018,135.4
+pnq,South West Pune,Q4 2018,135.2
+pnq,South West Pune,Q1 2019,129.1
+pnq,South West Pune,Q2 2019,132.4
+pnq,South West Pune,Q3 2019,138.4
+pnq,South West Pune,Q4 2019,146.5
+pnq,South West Pune,Q1 2020,151.9
+pnq,South West Pune,Q2 2020,149.9
+pnq,South West Pune,Q3 2020,150.6
+pnq,South West Pune,Q4 2020,148.9
+pnq,South West Pune,Q1 2021,146.8
+pnq,South West Pune,Q2 2021,145.5
+pnq,South West Pune,Q3 2021,145.6
+pnq,South West Pune,Q4 2021,147.2
+pnq,South West Pune,Q1 2022,146.9
+pnq,South West Pune,Q2 2022,147.4
+pnq,South West Pune,Q3 2022,147.9
+pnq,South West Pune,Q4 2022,149.2
+pnq,South West Pune,Q1 2023,150.8
+pnq,South West Pune,Q2 2023,161.2
+pnq,South West Pune,Q3 2023,165.4
+pnq,South West Pune,Q4 2023,169.2
+pnq,South West Pune,Q1 2024,174.3
+pnq,South West Pune,Q2 2024,178.1
+pnq,South West Pune,Q3 2024,180.8
+pnq,South West Pune,Q4 2024,190.3
+pnq,South West Pune,Q1 2025,192.0
+pnq,South West Pune,Q2 2025,192.4
+pnq,South West Pune,Q3 2025,190.8
+thn,Thane City,Q1 2014,100.0
+thn,Thane City,Q2 2014,118.5
+thn,Thane City,Q3 2014,159.1
+thn,Thane City,Q4 2014,125.2
+thn,Thane City,Q1 2015,118.4
+thn,Thane City,Q2 2015,123.9
+thn,Thane City,Q3 2015,139.7
+thn,Thane City,Q4 2015,119.0
+thn,Thane City,Q1 2016,125.6
+thn,Thane City,Q2 2016,136.7
+thn,Thane City,Q3 2016,113.7
+thn,Thane City,Q4 2016,126.6
+thn,Thane City,Q1 2017,145.6
+thn,Thane City,Q2 2017,115.0
+thn,Thane City,Q3 2017,135.8
+thn,Thane City,Q4 2017,136.2
+thn,Thane City,Q1 2018,130.0
+thn,Thane City,Q2 2018,130.4
+thn,Thane City,Q3 2018,130.7
+thn,Thane City,Q4 2018,130.9
+thn,Thane City,Q1 2019,137.0
+thn,Thane City,Q2 2019,137.0
+thn,Thane City,Q3 2019,137.2
+thn,Thane City,Q4 2019,136.1
+thn,Thane City,Q1 2020,135.9
+thn,Thane City,Q2 2020,137.2
+thn,Thane City,Q3 2020,132.0
+thn,Thane City,Q4 2020,132.3
+thn,Thane City,Q1 2021,136.0
+thn,Thane City,Q2 2021,135.7
+thn,Thane City,Q3 2021,137.7
+thn,Thane City,Q4 2021,135.0
+thn,Thane City,Q1 2022,134.7
+thn,Thane City,Q2 2022,135.4
+thn,Thane City,Q3 2022,136.4
+thn,Thane City,Q4 2022,143.7
+thn,Thane City,Q1 2023,148.3
+thn,Thane City,Q2 2023,150.2
+thn,Thane City,Q3 2023,156.8
+thn,Thane City,Q4 2023,156.2
+thn,Thane City,Q1 2024,157.3
+thn,Thane City,Q2 2024,156.7
+thn,Thane City,Q3 2024,154.3
+thn,Thane City,Q4 2024,155.3
+thn,Thane City,Q1 2025,157.3
+thn,Thane City,Q2 2025,160.6
+thn,Thane City,Q3 2025,166.6
